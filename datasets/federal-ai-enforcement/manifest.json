@@ -1,0 +1,52 @@
+{
+  "dataset": "federal-ai-enforcement",
+  "title": "US Federal AI Enforcement Tracker",
+  "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/federal-enforcement",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, US Federal AI Enforcement Tracker (as of 2026-07-10), https://vorplabs.com/ai-regulatory-updates/federal-enforcement",
+  "latest": {
+    "version": "2026.07.10",
+    "asOf": "2026-07-10",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.json",
+        "bytes": 67452,
+        "sha256": "cec78b278b359a6e88a0cb5eb8074f1d070655f1c771b1dc1e39abe1704fad81",
+        "records": 30
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.csv",
+        "bytes": 25054,
+        "sha256": "a1ff0dedc6b20855adcd3c6614e53d0a2448ab14ed93a1f4bd38abaf23d3deca",
+        "records": 30
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.10",
+      "asOf": "2026-07-10",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.json",
+          "bytes": 67452,
+          "sha256": "cec78b278b359a6e88a0cb5eb8074f1d070655f1c771b1dc1e39abe1704fad81",
+          "records": 30
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.csv",
+          "bytes": 25054,
+          "sha256": "a1ff0dedc6b20855adcd3c6614e53d0a2448ab14ed93a1f4bd38abaf23d3deca",
+          "records": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "dataset": "einvoicing-mandates",
+  "title": "E-Invoicing Mandate Phase Dataset",
+  "canonicalPage": "https://vorplabs.com/e-invoicing-mandates",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, E-Invoicing Mandate Tracker (data through 2026-07-15), https://vorplabs.com/e-invoicing-mandates",
+  "latest": {
+    "version": "2026.07.15",
+    "asOf": "2026-07-15",
+    "schemaVersion": 2,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.json",
+        "bytes": 15070,
+        "sha256": "b32b07b1d416bce0179e51231c04e033abc17706416d86b1b16be25b3e5aa633",
+        "records": 15
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.csv",
+        "bytes": 10198,
+        "sha256": "0dc5ba0f6a75e34933b49510a7906cd1364a878bc8da5ca0fcb3510fa8ee0065",
+        "records": 15
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.15",
+      "asOf": "2026-07-15",
+      "schemaVersion": 2,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.json",
+          "bytes": 15070,
+          "sha256": "b32b07b1d416bce0179e51231c04e033abc17706416d86b1b16be25b3e5aa633",
+          "records": 15
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.csv",
+          "bytes": 10198,
+          "sha256": "0dc5ba0f6a75e34933b49510a7906cd1364a878bc8da5ca0fcb3510fa8ee0065",
+          "records": 15
+        }
+      ]
+    }
+  ]
+}

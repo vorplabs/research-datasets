@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these datasets, cite Vorp Labs Research and the dataset-specific manifest."
+title: "Vorp Labs Research Datasets"
+type: dataset
+authors:
+  - name: "Vorp Labs Research"
+version: "2026.07.15"
+date-released: 2026-07-15
+url: "https://vorplabs.com/research"
+license: CC-BY-4.0
+keywords:
+  - artificial intelligence
+  - regulatory tracking
+  - model lifecycle
+  - security research
+  - provenance

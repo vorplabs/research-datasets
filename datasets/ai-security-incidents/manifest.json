@@ -1,0 +1,52 @@
+{
+  "dataset": "ai-security-incidents",
+  "title": "AI Company Security Incident Ledger",
+  "canonicalPage": "https://vorplabs.com/ai-threat-monitoring/security-incidents",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, AI Company Security Incident Ledger (as of 2026-07-10), https://vorplabs.com/ai-threat-monitoring/security-incidents",
+  "latest": {
+    "version": "2026.07.10",
+    "asOf": "2026-07-10",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/ai-security-incidents/2026.07.10/ai-security-incidents.json",
+        "bytes": 43521,
+        "sha256": "d65710d546b2e2a5611bc87230fbc17d9980520a4c8e6673117fba849a4e5f46",
+        "records": 19
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/ai-security-incidents/2026.07.10/ai-security-incidents.csv",
+        "bytes": 21338,
+        "sha256": "b39ba69d0f1afef4b3ed4d1214e41266b332df40d326605ae26109b2ec9dd328",
+        "records": 19
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.10",
+      "asOf": "2026-07-10",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-security-incidents/2026.07.10/ai-security-incidents.json",
+          "bytes": 43521,
+          "sha256": "d65710d546b2e2a5611bc87230fbc17d9980520a4c8e6673117fba849a4e5f46",
+          "records": 19
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-security-incidents/2026.07.10/ai-security-incidents.csv",
+          "bytes": 21338,
+          "sha256": "b39ba69d0f1afef4b3ed4d1214e41266b332df40d326605ae26109b2ec9dd328",
+          "records": 19
+        }
+      ]
+    }
+  ]
+}

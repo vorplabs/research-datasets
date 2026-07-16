@@ -1,0 +1,52 @@
+{
+  "dataset": "ai-threat-monitoring",
+  "title": "AI Scam & Fraud Tracker",
+  "canonicalPage": "https://vorplabs.com/ai-threat-monitoring",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, AI Scam & Fraud Tracker (as of 2026-07-10), https://vorplabs.com/ai-threat-monitoring",
+  "latest": {
+    "version": "2026.07.10",
+    "asOf": "2026-07-10",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.json",
+        "bytes": 40947,
+        "sha256": "a6b5b48a06d5a37fff7367548e78cc7d3d6d40811a5722d371b1141164030139",
+        "records": 12
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.csv",
+        "bytes": 16306,
+        "sha256": "2f9ab23b146874dabfe221b55870aa974f974829eaf798348e3e3267387358e8",
+        "records": 12
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.10",
+      "asOf": "2026-07-10",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.json",
+          "bytes": 40947,
+          "sha256": "a6b5b48a06d5a37fff7367548e78cc7d3d6d40811a5722d371b1141164030139",
+          "records": 12
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.csv",
+          "bytes": 16306,
+          "sha256": "2f9ab23b146874dabfe221b55870aa974f974829eaf798348e3e3267387358e8",
+          "records": 12
+        }
+      ]
+    }
+  ]
+}

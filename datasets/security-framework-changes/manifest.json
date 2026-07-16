@@ -1,0 +1,52 @@
+{
+  "dataset": "security-framework-changes",
+  "title": "Security Framework Change Dataset",
+  "canonicalPage": "https://vorplabs.com/security-framework-changes",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, Security Framework Change Tracker (data through 2026-07-15), https://vorplabs.com/security-framework-changes",
+  "latest": {
+    "version": "2026.07.15",
+    "asOf": "2026-07-15",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/security-framework-changes/2026.07.15/security-framework-changes.json",
+        "bytes": 16544,
+        "sha256": "238afa06361af97a58da7058931bcbdb41d5726881fc8afdb688ac99016146ef",
+        "records": 18
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/security-framework-changes/2026.07.15/security-framework-changes.csv",
+        "bytes": 12487,
+        "sha256": "ff555779a9cad08080cdb8e6db20c6aa6010c64c3b369dc247dbb5675a07c86d",
+        "records": 18
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.15",
+      "asOf": "2026-07-15",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/security-framework-changes/2026.07.15/security-framework-changes.json",
+          "bytes": 16544,
+          "sha256": "238afa06361af97a58da7058931bcbdb41d5726881fc8afdb688ac99016146ef",
+          "records": 18
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/security-framework-changes/2026.07.15/security-framework-changes.csv",
+          "bytes": 12487,
+          "sha256": "ff555779a9cad08080cdb8e6db20c6aa6010c64c3b369dc247dbb5675a07c86d",
+          "records": 18
+        }
+      ]
+    }
+  ]
+}
