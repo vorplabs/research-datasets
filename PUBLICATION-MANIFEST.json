@@ -1,0 +1,221 @@
+{
+  "publisher": "Vorp Labs",
+  "researchEntity": "Vorp Labs Research",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 430,
+      "sha256": "ee7bf599cd6415ed565672160c7022cd63bc89f37a3bd875a4ce74c06369ffa8"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 583,
+      "sha256": "fab67290bdc713a34ac149f6b436845dbcc577b92dc9cbef97d9b91c256e3635"
+    },
+    {
+      "path": "CORRECTIONS.md",
+      "bytes": 552,
+      "sha256": "5f7a4ddc4d1bb8066c5b43855c6f9fdfbc56f02bceda4295be7d3ebf8c8a2af7"
+    },
+    {
+      "path": "datasets/ai-security-incidents/2026.07.10/ai-security-incidents.csv",
+      "bytes": 21338,
+      "sha256": "b39ba69d0f1afef4b3ed4d1214e41266b332df40d326605ae26109b2ec9dd328"
+    },
+    {
+      "path": "datasets/ai-security-incidents/2026.07.10/ai-security-incidents.json",
+      "bytes": 43521,
+      "sha256": "d65710d546b2e2a5611bc87230fbc17d9980520a4c8e6673117fba849a4e5f46"
+    },
+    {
+      "path": "datasets/ai-security-incidents/manifest.json",
+      "bytes": 1751,
+      "sha256": "2d9b30acac70f2c537320c7451cc98d3c4d192246745748a2ba3c8b49cf1bf1c"
+    },
+    {
+      "path": "datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.csv",
+      "bytes": 16306,
+      "sha256": "2f9ab23b146874dabfe221b55870aa974f974829eaf798348e3e3267387358e8"
+    },
+    {
+      "path": "datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.json",
+      "bytes": 40947,
+      "sha256": "a6b5b48a06d5a37fff7367548e78cc7d3d6d40811a5722d371b1141164030139"
+    },
+    {
+      "path": "datasets/ai-threat-monitoring/manifest.json",
+      "bytes": 1680,
+      "sha256": "69bfb765ed201ef82aa17ce7d99c27036f2f7d03123c71f3bb5d9db7c1c17280"
+    },
+    {
+      "path": "datasets/deepfake-laws/2026.07.10/deepfake-laws.csv",
+      "bytes": 21983,
+      "sha256": "6886bc70d3760463acb2e3e2d9f8e4550db35c85d46dcb2688971a19c07bf340"
+    },
+    {
+      "path": "datasets/deepfake-laws/2026.07.10/deepfake-laws.json",
+      "bytes": 45127,
+      "sha256": "662da5bfe6b64bdcff0ac8897d3a3499c1bd8c647b251563527926d0ffc93d0a"
+    },
+    {
+      "path": "datasets/deepfake-laws/manifest.json",
+      "bytes": 1679,
+      "sha256": "33bc576082bca3990afa55c221024f83ab51f6ff5358b7e94185dc64d26fb660"
+    },
+    {
+      "path": "datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.csv",
+      "bytes": 10198,
+      "sha256": "0dc5ba0f6a75e34933b49510a7906cd1364a878bc8da5ca0fcb3510fa8ee0065"
+    },
+    {
+      "path": "datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.json",
+      "bytes": 15070,
+      "sha256": "b32b07b1d416bce0179e51231c04e033abc17706416d86b1b16be25b3e5aa633"
+    },
+    {
+      "path": "datasets/einvoicing-mandates/manifest.json",
+      "bytes": 1692,
+      "sha256": "7b1468b9ea4d2da07c68a6eb32e186fee4fc50305f9f26ef8dc988c1501b3886"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.csv",
+      "bytes": 25054,
+      "sha256": "a1ff0dedc6b20855adcd3c6614e53d0a2448ab14ed93a1f4bd38abaf23d3deca"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.json",
+      "bytes": 67452,
+      "sha256": "cec78b278b359a6e88a0cb5eb8074f1d070655f1c771b1dc1e39abe1704fad81"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/manifest.json",
+      "bytes": 1760,
+      "sha256": "1ea9b76283604c3fc891536894fade316a7b485455a078ae40385b5b9405594a"
+    },
+    {
+      "path": "datasets/frontier-framework-comparison/2026.07.12/frontier-framework-comparison.csv",
+      "bytes": 16309,
+      "sha256": "09727251a33ee91367d0ef55e27fd1254d8f0f1a0800860635d3d7fad67436b7"
+    },
+    {
+      "path": "datasets/frontier-framework-comparison/2026.07.12/frontier-framework-comparison.json",
+      "bytes": 20598,
+      "sha256": "e0a2fa410fdf5ea7bfbb1f7070054753a7d91c3e841b65de3c6cbe3b85d0dc0b"
+    },
+    {
+      "path": "datasets/frontier-framework-comparison/manifest.json",
+      "bytes": 1884,
+      "sha256": "3a6d5b19f105a9c2c3621aea04409938629918797c6ba1a92486b60aabe3b425"
+    },
+    {
+      "path": "datasets/index.json",
+      "bytes": 3419,
+      "sha256": "a648dee7a335708ead8d35ec60590fd046d90b77dd001a5a3119d44def50e9ae"
+    },
+    {
+      "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.csv",
+      "bytes": 24723,
+      "sha256": "ef1ef145432723b733ad4cc219b72fd1e164d38affbaa52a61294723ff49ba6d"
+    },
+    {
+      "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.json",
+      "bytes": 49075,
+      "sha256": "257c329aee063fbad5bc1f183e3431c73fde228e089fb04cc2b9497365e92bdf"
+    },
+    {
+      "path": "datasets/media-rights-provenance/2026.07.15/media-rights-provenance.csv",
+      "bytes": 24922,
+      "sha256": "4b538190feb01ef6152eecdc152e31c45aacc7388c6a09c781dcf1cfb4e749aa"
+    },
+    {
+      "path": "datasets/media-rights-provenance/2026.07.15/media-rights-provenance.json",
+      "bytes": 49578,
+      "sha256": "0d5cff027111db7a712f93fdc1284720899c6a7f83b14150ee58eab20c5b969e"
+    },
+    {
+      "path": "datasets/media-rights-provenance/manifest.json",
+      "bytes": 2435,
+      "sha256": "2a8a55645c349bc503f5350da1e5a3a24e5080046528e14aa0060708b705698f"
+    },
+    {
+      "path": "datasets/model-deprecations/2026.07.05/model-deprecations.csv",
+      "bytes": 7816,
+      "sha256": "484891e6e456dd687231cfd7a2a4fafc220e13d92335cf398b9499f4c2fedb6e"
+    },
+    {
+      "path": "datasets/model-deprecations/2026.07.05/model-deprecations.json",
+      "bytes": 10293,
+      "sha256": "f2d6358ae916ce46959c6dd41f08960b022b06165549b45dc81e8005b302126f"
+    },
+    {
+      "path": "datasets/model-deprecations/2026.07.14/model-deprecations.csv",
+      "bytes": 13240,
+      "sha256": "87259760c4c76e0e8fe666885494ff202ba0189802f18382345ce6d5ee6ffdd2"
+    },
+    {
+      "path": "datasets/model-deprecations/2026.07.14/model-deprecations.json",
+      "bytes": 17268,
+      "sha256": "9c6ddc96482bc51c001f48692d91141e0d600cae3797a4adb71f251046cb62ff"
+    },
+    {
+      "path": "datasets/model-deprecations/2026.07.15/model-deprecations.csv",
+      "bytes": 20239,
+      "sha256": "d447d981f8b20d237c61c888734cd3d122b6544cdc16ff991232ad62a6abac15"
+    },
+    {
+      "path": "datasets/model-deprecations/2026.07.15/model-deprecations.json",
+      "bytes": 26379,
+      "sha256": "ae68c61e94d31ec476c5d3ab65284e89ba8d84ac558a56c734d19e2adab4cb90"
+    },
+    {
+      "path": "datasets/model-deprecations/manifest.json",
+      "bytes": 2997,
+      "sha256": "95fa57539395d2e81a148768b9635741b9bd165e72fa9c5146a8cf21b22a96f6"
+    },
+    {
+      "path": "datasets/security-framework-changes/2026.07.15/security-framework-changes.csv",
+      "bytes": 12487,
+      "sha256": "ff555779a9cad08080cdb8e6db20c6aa6010c64c3b369dc247dbb5675a07c86d"
+    },
+    {
+      "path": "datasets/security-framework-changes/2026.07.15/security-framework-changes.json",
+      "bytes": 16544,
+      "sha256": "238afa06361af97a58da7058931bcbdb41d5726881fc8afdb688ac99016146ef"
+    },
+    {
+      "path": "datasets/security-framework-changes/manifest.json",
+      "bytes": 1773,
+      "sha256": "e1f47c8ab70a0420bab84ef6be3586572d183036fd844835e80049f39d88e490"
+    },
+    {
+      "path": "datasets/us-ai-law-changes/2026.07.12/us-ai-law-changes.csv",
+      "bytes": 10635,
+      "sha256": "b6231b3d1c0b940267d52b2b0fbe546c1ced6de7f59518e60e73636d4408772d"
+    },
+    {
+      "path": "datasets/us-ai-law-changes/2026.07.12/us-ai-law-changes.json",
+      "bytes": 13217,
+      "sha256": "61634389e71689de4dd633b0e8f488793b4442acf85181b061a48efa4d1af6a6"
+    },
+    {
+      "path": "datasets/us-ai-law-changes/manifest.json",
+      "bytes": 1714,
+      "sha256": "9b02783e9932de2e2d95eaee209211c27ced1b803154af4bd8b152cc3d3d9493"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 565,
+      "sha256": "15dda5ed6b3665365fc96010447ff9b60fdea93ba34db387f4d09ea5be159c2b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2864,
+      "sha256": "7ae90ecb38824b1bbee9d539313cbb451751188b4288d4869f9bf20e2f16fdbe"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 459,
+      "sha256": "26783881555c81f2010ea333cba49782cd8c13104737fd01eba23849f13eb344"
+    }
+  ]
+}
