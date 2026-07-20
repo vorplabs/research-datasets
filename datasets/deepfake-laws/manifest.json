@@ -6,27 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, Deepfake & AI Impersonation Law Tracker (as of 2026-07-10), https://vorplabs.com/ai-regulatory-updates/deepfake-laws",
   "latest": {
-    "version": "2026.07.10",
+    "version": "2026.07.17",
+    "releasedOn": "2026-07-17",
     "asOf": "2026-07-10",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/deepfake-laws/2026.07.10/deepfake-laws.json",
-        "bytes": 45127,
-        "sha256": "662da5bfe6b64bdcff0ac8897d3a3499c1bd8c647b251563527926d0ffc93d0a",
+        "path": "/datasets/deepfake-laws/2026.07.17/deepfake-laws.json",
+        "bytes": 45073,
+        "sha256": "e7f77ec6c52b2a154af319f962dc1d007a1268458cac6628452fe4da61feafe6",
         "records": 46
       },
       {
         "format": "csv",
-        "path": "/datasets/deepfake-laws/2026.07.10/deepfake-laws.csv",
-        "bytes": 21983,
-        "sha256": "6886bc70d3760463acb2e3e2d9f8e4550db35c85d46dcb2688971a19c07bf340",
+        "path": "/datasets/deepfake-laws/2026.07.17/deepfake-laws.csv",
+        "bytes": 21955,
+        "sha256": "82062773d252c96896781d69cca222989a7182b4e293cee179ea6ab4ad8820d9",
         "records": 46
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-10",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/deepfake-laws/2026.07.17/deepfake-laws.json",
+          "bytes": 45073,
+          "sha256": "e7f77ec6c52b2a154af319f962dc1d007a1268458cac6628452fe4da61feafe6",
+          "records": 46
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/deepfake-laws/2026.07.17/deepfake-laws.csv",
+          "bytes": 21955,
+          "sha256": "82062773d252c96896781d69cca222989a7182b4e293cee179ea6ab4ad8820d9",
+          "records": 46
+        }
+      ]
+    },
     {
       "version": "2026.07.10",
       "asOf": "2026-07-10",
@@ -46,7 +69,8 @@
           "sha256": "6886bc70d3760463acb2e3e2d9f8e4550db35c85d46dcb2688971a19c07bf340",
           "records": 46
         }
-      ]
+      ],
+      "releasedOn": "2026-07-10"
     }
   ]
 }

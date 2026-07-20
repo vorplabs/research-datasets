@@ -4,29 +4,96 @@
   "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/federal-enforcement",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseLabel": "CC BY 4.0",
-  "citation": "Vorp Labs, US Federal AI Enforcement Tracker (as of 2026-07-10), https://vorplabs.com/ai-regulatory-updates/federal-enforcement",
+  "citation": "Vorp Labs, US Federal AI Enforcement Tracker (as of 2026-07-18), https://vorplabs.com/ai-regulatory-updates/federal-enforcement",
   "latest": {
-    "version": "2026.07.10",
-    "asOf": "2026-07-10",
+    "version": "2026.07.19",
+    "releasedOn": "2026-07-19",
+    "asOf": "2026-07-18",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.json",
-        "bytes": 67452,
-        "sha256": "cec78b278b359a6e88a0cb5eb8074f1d070655f1c771b1dc1e39abe1704fad81",
-        "records": 30
+        "path": "/datasets/federal-ai-enforcement/2026.07.19/federal-ai-enforcement.json",
+        "bytes": 98414,
+        "sha256": "506d94f8966e3f12f1ae9d964684c5b62ecdb1878fc846bf38fdfd207277c805",
+        "records": 42
       },
       {
         "format": "csv",
-        "path": "/datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.csv",
-        "bytes": 25054,
-        "sha256": "a1ff0dedc6b20855adcd3c6614e53d0a2448ab14ed93a1f4bd38abaf23d3deca",
-        "records": 30
+        "path": "/datasets/federal-ai-enforcement/2026.07.19/federal-ai-enforcement.csv",
+        "bytes": 37366,
+        "sha256": "8b2bac24073878d6f2db6efd2077b1cce85648aa80dde39efa610b01c492cebd",
+        "records": 42
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.19",
+      "releasedOn": "2026-07-19",
+      "asOf": "2026-07-18",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/federal-ai-enforcement/2026.07.19/federal-ai-enforcement.json",
+          "bytes": 98414,
+          "sha256": "506d94f8966e3f12f1ae9d964684c5b62ecdb1878fc846bf38fdfd207277c805",
+          "records": 42
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/federal-ai-enforcement/2026.07.19/federal-ai-enforcement.csv",
+          "bytes": 37366,
+          "sha256": "8b2bac24073878d6f2db6efd2077b1cce85648aa80dde39efa610b01c492cebd",
+          "records": 42
+        }
+      ]
+    },
+    {
+      "version": "2026.07.18",
+      "releasedOn": "2026-07-18",
+      "asOf": "2026-07-18",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/federal-ai-enforcement/2026.07.18/federal-ai-enforcement.json",
+          "bytes": 97257,
+          "sha256": "a8fa0be69300b0bc9ad09077fd34946aee8e936afb91f4f3d3e325511c26df26",
+          "records": 42
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/federal-ai-enforcement/2026.07.18/federal-ai-enforcement.csv",
+          "bytes": 36540,
+          "sha256": "4d81b5c9103bc5cd00fd1d5444527cdf41ae41efe439c1c87537425480bd7ee8",
+          "records": 42
+        }
+      ]
+    },
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-10",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/federal-ai-enforcement/2026.07.17/federal-ai-enforcement.json",
+          "bytes": 67452,
+          "sha256": "b84c8ffd90e326c056d1fbb1dcd19807efb2ee2bb37ba0c45e01f7994bcbfcf0",
+          "records": 30
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/federal-ai-enforcement/2026.07.17/federal-ai-enforcement.csv",
+          "bytes": 25051,
+          "sha256": "3ebb74b6be63955cc685e965f85d8098a0ca05145acb0d79965f7b71627f6b5e",
+          "records": 30
+        }
+      ]
+    },
     {
       "version": "2026.07.10",
       "asOf": "2026-07-10",
@@ -46,7 +113,8 @@
           "sha256": "a1ff0dedc6b20855adcd3c6614e53d0a2448ab14ed93a1f4bd38abaf23d3deca",
           "records": 30
         }
-      ]
+      ],
+      "releasedOn": "2026-07-10"
     }
   ]
 }

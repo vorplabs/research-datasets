@@ -6,27 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, AI Scam & Fraud Tracker (as of 2026-07-10), https://vorplabs.com/ai-threat-monitoring",
   "latest": {
-    "version": "2026.07.10",
+    "version": "2026.07.17",
+    "releasedOn": "2026-07-17",
     "asOf": "2026-07-10",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.json",
+        "path": "/datasets/ai-threat-monitoring/2026.07.17/ai-threat-monitoring.json",
         "bytes": 40947,
-        "sha256": "a6b5b48a06d5a37fff7367548e78cc7d3d6d40811a5722d371b1141164030139",
+        "sha256": "565071db9b390b75eaf91aef793da7b7406dcea3d87ad049e07995b79bb3c0d2",
         "records": 12
       },
       {
         "format": "csv",
-        "path": "/datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.csv",
-        "bytes": 16306,
-        "sha256": "2f9ab23b146874dabfe221b55870aa974f974829eaf798348e3e3267387358e8",
+        "path": "/datasets/ai-threat-monitoring/2026.07.17/ai-threat-monitoring.csv",
+        "bytes": 16276,
+        "sha256": "69f189a7720973c668ccce5884562780f0c8c6aea4b7484f6b94c9692e35cf8b",
         "records": 12
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-10",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-threat-monitoring/2026.07.17/ai-threat-monitoring.json",
+          "bytes": 40947,
+          "sha256": "565071db9b390b75eaf91aef793da7b7406dcea3d87ad049e07995b79bb3c0d2",
+          "records": 12
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-threat-monitoring/2026.07.17/ai-threat-monitoring.csv",
+          "bytes": 16276,
+          "sha256": "69f189a7720973c668ccce5884562780f0c8c6aea4b7484f6b94c9692e35cf8b",
+          "records": 12
+        }
+      ]
+    },
     {
       "version": "2026.07.10",
       "asOf": "2026-07-10",
@@ -46,7 +69,8 @@
           "sha256": "2f9ab23b146874dabfe221b55870aa974f974829eaf798348e3e3267387358e8",
           "records": 12
         }
-      ]
+      ],
+      "releasedOn": "2026-07-10"
     }
   ]
 }

@@ -1,21 +1,51 @@
 {
   "publisher": "Vorp Labs",
   "researchEntity": "Vorp Labs Research",
+  "canonicalCatalog": "https://vorplabs.com/research",
+  "repository": "https://github.com/vorplabs/research-datasets",
+  "license": "CC BY 4.0",
+  "latestReleasedOn": "2026-07-20",
+  "datasetCount": 12,
   "files": [
     {
       "path": "CITATION.cff",
-      "bytes": 430,
-      "sha256": "ee7bf599cd6415ed565672160c7022cd63bc89f37a3bd875a4ce74c06369ffa8"
+      "bytes": 495,
+      "sha256": "394fc30e8a019595e1ec88f908502ee4cf36a50e9563ebb6802c789428741d28"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 583,
-      "sha256": "fab67290bdc713a34ac149f6b436845dbcc577b92dc9cbef97d9b91c256e3635"
+      "bytes": 571,
+      "sha256": "855557cb1bf24bec2bce89998135f105da1ab4044c7fef5e69e71c58c4ce93e5"
     },
     {
       "path": "CORRECTIONS.md",
       "bytes": 552,
       "sha256": "5f7a4ddc4d1bb8066c5b43855c6f9fdfbc56f02bceda4295be7d3ebf8c8a2af7"
+    },
+    {
+      "path": "datasets/ai-hallucination-sanctions/2026.07.19/ai-hallucination-sanctions.csv",
+      "bytes": 8854,
+      "sha256": "a130b3ef8e00f206ff21f572f192be9866bdd9e1d4daf633a7c045ae61d2ba97"
+    },
+    {
+      "path": "datasets/ai-hallucination-sanctions/2026.07.19/ai-hallucination-sanctions.json",
+      "bytes": 21362,
+      "sha256": "40b73b64ce1545260dd96a37af642997f222e2453677b65ae53a6dfb7b437286"
+    },
+    {
+      "path": "datasets/ai-hallucination-sanctions/2026.07.20/ai-hallucination-sanctions.csv",
+      "bytes": 9533,
+      "sha256": "52b58eab11cbb710fe28196fef7b77cdb21bac9f75331361fbda09274e4a19a0"
+    },
+    {
+      "path": "datasets/ai-hallucination-sanctions/2026.07.20/ai-hallucination-sanctions.json",
+      "bytes": 23284,
+      "sha256": "90baca60dd0c4c9a813db6c2128b989851196e6f27a0e7482ea19426f0fabd03"
+    },
+    {
+      "path": "datasets/ai-hallucination-sanctions/manifest.json",
+      "bytes": 2617,
+      "sha256": "778f635e50e5e58e5ae2c0214d3831a2b015d9afdd04898e8b1b5144e154d66d"
     },
     {
       "path": "datasets/ai-security-incidents/2026.07.10/ai-security-incidents.csv",
@@ -28,9 +58,19 @@
       "sha256": "d65710d546b2e2a5611bc87230fbc17d9980520a4c8e6673117fba849a4e5f46"
     },
     {
+      "path": "datasets/ai-security-incidents/2026.07.17/ai-security-incidents.csv",
+      "bytes": 21335,
+      "sha256": "0680fcc8687654891e2cf22aa12438bcf64d00686a4dd6a5f328166afda0f72d"
+    },
+    {
+      "path": "datasets/ai-security-incidents/2026.07.17/ai-security-incidents.json",
+      "bytes": 43518,
+      "sha256": "2ad831a4eef63f0e58d2eb1c5bf8e5866e1cc78712997abd9bbd408e01ef5152"
+    },
+    {
       "path": "datasets/ai-security-incidents/manifest.json",
-      "bytes": 1751,
-      "sha256": "2d9b30acac70f2c537320c7451cc98d3c4d192246745748a2ba3c8b49cf1bf1c"
+      "bytes": 2527,
+      "sha256": "81eb98eab83bf094504a305a5006fc8d3197adad693dbcb881277e4e2b390e07"
     },
     {
       "path": "datasets/ai-threat-monitoring/2026.07.10/ai-threat-monitoring.csv",
@@ -43,9 +83,19 @@
       "sha256": "a6b5b48a06d5a37fff7367548e78cc7d3d6d40811a5722d371b1141164030139"
     },
     {
+      "path": "datasets/ai-threat-monitoring/2026.07.17/ai-threat-monitoring.csv",
+      "bytes": 16276,
+      "sha256": "69f189a7720973c668ccce5884562780f0c8c6aea4b7484f6b94c9692e35cf8b"
+    },
+    {
+      "path": "datasets/ai-threat-monitoring/2026.07.17/ai-threat-monitoring.json",
+      "bytes": 40947,
+      "sha256": "565071db9b390b75eaf91aef793da7b7406dcea3d87ad049e07995b79bb3c0d2"
+    },
+    {
       "path": "datasets/ai-threat-monitoring/manifest.json",
-      "bytes": 1680,
-      "sha256": "69bfb765ed201ef82aa17ce7d99c27036f2f7d03123c71f3bb5d9db7c1c17280"
+      "bytes": 2452,
+      "sha256": "2da9be2d6faee64dbdd283396e40e8b1e9a26176a85420a92a1b8eb3191b8f35"
     },
     {
       "path": "datasets/deepfake-laws/2026.07.10/deepfake-laws.csv",
@@ -58,9 +108,19 @@
       "sha256": "662da5bfe6b64bdcff0ac8897d3a3499c1bd8c647b251563527926d0ffc93d0a"
     },
     {
+      "path": "datasets/deepfake-laws/2026.07.17/deepfake-laws.csv",
+      "bytes": 21955,
+      "sha256": "82062773d252c96896781d69cca222989a7182b4e293cee179ea6ab4ad8820d9"
+    },
+    {
+      "path": "datasets/deepfake-laws/2026.07.17/deepfake-laws.json",
+      "bytes": 45073,
+      "sha256": "e7f77ec6c52b2a154af319f962dc1d007a1268458cac6628452fe4da61feafe6"
+    },
+    {
       "path": "datasets/deepfake-laws/manifest.json",
-      "bytes": 1679,
-      "sha256": "33bc576082bca3990afa55c221024f83ab51f6ff5358b7e94185dc64d26fb660"
+      "bytes": 2423,
+      "sha256": "9dea35719ce6a88399031cdd0d816d2588aa786d3e960fa69d6ff9466481af32"
     },
     {
       "path": "datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.csv",
@@ -73,9 +133,19 @@
       "sha256": "b32b07b1d416bce0179e51231c04e033abc17706416d86b1b16be25b3e5aa633"
     },
     {
+      "path": "datasets/einvoicing-mandates/2026.07.17/einvoicing-mandates.csv",
+      "bytes": 10195,
+      "sha256": "3a5d0d27fb7b2735989e5ab10fba0b2e127c51ff50aa4fab8fa41aefa2e082c8"
+    },
+    {
+      "path": "datasets/einvoicing-mandates/2026.07.17/einvoicing-mandates.json",
+      "bytes": 15070,
+      "sha256": "aac2c81c0c133651a0ea9cbb26a5dc1d1f39ba78f8f2ba02cf41a065fbe0bbec"
+    },
+    {
       "path": "datasets/einvoicing-mandates/manifest.json",
-      "bytes": 1692,
-      "sha256": "7b1468b9ea4d2da07c68a6eb32e186fee4fc50305f9f26ef8dc988c1501b3886"
+      "bytes": 2460,
+      "sha256": "efe7fe863b45e95c6b709d571db17066b733ef827e8e98ca404fa1fb7967b511"
     },
     {
       "path": "datasets/federal-ai-enforcement/2026.07.10/federal-ai-enforcement.csv",
@@ -88,9 +158,39 @@
       "sha256": "cec78b278b359a6e88a0cb5eb8074f1d070655f1c771b1dc1e39abe1704fad81"
     },
     {
+      "path": "datasets/federal-ai-enforcement/2026.07.17/federal-ai-enforcement.csv",
+      "bytes": 25051,
+      "sha256": "3ebb74b6be63955cc685e965f85d8098a0ca05145acb0d79965f7b71627f6b5e"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/2026.07.17/federal-ai-enforcement.json",
+      "bytes": 67452,
+      "sha256": "b84c8ffd90e326c056d1fbb1dcd19807efb2ee2bb37ba0c45e01f7994bcbfcf0"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/2026.07.18/federal-ai-enforcement.csv",
+      "bytes": 36540,
+      "sha256": "4d81b5c9103bc5cd00fd1d5444527cdf41ae41efe439c1c87537425480bd7ee8"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/2026.07.18/federal-ai-enforcement.json",
+      "bytes": 97257,
+      "sha256": "a8fa0be69300b0bc9ad09077fd34946aee8e936afb91f4f3d3e325511c26df26"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/2026.07.19/federal-ai-enforcement.csv",
+      "bytes": 37366,
+      "sha256": "8b2bac24073878d6f2db6efd2077b1cce85648aa80dde39efa610b01c492cebd"
+    },
+    {
+      "path": "datasets/federal-ai-enforcement/2026.07.19/federal-ai-enforcement.json",
+      "bytes": 98414,
+      "sha256": "506d94f8966e3f12f1ae9d964684c5b62ecdb1878fc846bf38fdfd207277c805"
+    },
+    {
       "path": "datasets/federal-ai-enforcement/manifest.json",
-      "bytes": 1760,
-      "sha256": "1ea9b76283604c3fc891536894fade316a7b485455a078ae40385b5b9405594a"
+      "bytes": 3968,
+      "sha256": "cede6909872792ee7e801f2d3774ef743df79dc3b916d91c5f4903180af609a4"
     },
     {
       "path": "datasets/frontier-framework-comparison/2026.07.12/frontier-framework-comparison.csv",
@@ -103,14 +203,24 @@
       "sha256": "e0a2fa410fdf5ea7bfbb1f7070054753a7d91c3e841b65de3c6cbe3b85d0dc0b"
     },
     {
+      "path": "datasets/frontier-framework-comparison/2026.07.17/frontier-framework-comparison.csv",
+      "bytes": 16305,
+      "sha256": "878d9f81c10b5583b566cccc359f5958900348237ed61bd55bafa0182aa873f5"
+    },
+    {
+      "path": "datasets/frontier-framework-comparison/2026.07.17/frontier-framework-comparison.json",
+      "bytes": 20595,
+      "sha256": "cd7738e5b5007742e7c7845b8111e5d2b7718f5c5fdd2957baebf5510a5f0bbe"
+    },
+    {
       "path": "datasets/frontier-framework-comparison/manifest.json",
-      "bytes": 1884,
-      "sha256": "3a6d5b19f105a9c2c3621aea04409938629918797c6ba1a92486b60aabe3b425"
+      "bytes": 2692,
+      "sha256": "a8fedd5e49ca4553ebb5c1bae1ed382aeec4416445a7674b316c456ca3e79929"
     },
     {
       "path": "datasets/index.json",
-      "bytes": 3419,
-      "sha256": "a648dee7a335708ead8d35ec60590fd046d90b77dd001a5a3119d44def50e9ae"
+      "bytes": 4552,
+      "sha256": "14785e1156bebbe59038a165dd8b01a20a064cf14e1bdeeaa81351fb827852f7"
     },
     {
       "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.csv",
@@ -133,9 +243,19 @@
       "sha256": "0d5cff027111db7a712f93fdc1284720899c6a7f83b14150ee58eab20c5b969e"
     },
     {
+      "path": "datasets/media-rights-provenance/2026.07.17/media-rights-provenance.csv",
+      "bytes": 24889,
+      "sha256": "071779e36d68e940437f7a18a6f98b11e7440264b7be6b448f8cb77270e493d4"
+    },
+    {
+      "path": "datasets/media-rights-provenance/2026.07.17/media-rights-provenance.json",
+      "bytes": 49543,
+      "sha256": "5e1fcc5c12e8a8ba9c17e271c4fd4129490058fcb378f4d6fad746cea313b28b"
+    },
+    {
       "path": "datasets/media-rights-provenance/manifest.json",
-      "bytes": 2435,
-      "sha256": "2a8a55645c349bc503f5350da1e5a3a24e5080046528e14aa0060708b705698f"
+      "bytes": 3253,
+      "sha256": "974a8bd3f38b7e437dca1c5c50ffd4f56252df49e44247aa012a9ff26e69ca01"
     },
     {
       "path": "datasets/model-deprecations/2026.07.05/model-deprecations.csv",
@@ -168,9 +288,19 @@
       "sha256": "ae68c61e94d31ec476c5d3ab65284e89ba8d84ac558a56c734d19e2adab4cb90"
     },
     {
+      "path": "datasets/model-deprecations/2026.07.17/model-deprecations.csv",
+      "bytes": 20230,
+      "sha256": "0a1c082833a0a6a25e8b7a55888a11706c42f51b7305a1c39fc2527183e3b62b"
+    },
+    {
+      "path": "datasets/model-deprecations/2026.07.17/model-deprecations.json",
+      "bytes": 26367,
+      "sha256": "5bae9e0ae6c115d66c8323b5cf970d6b513bd992b723da8c31afd582468d8a8a"
+    },
+    {
       "path": "datasets/model-deprecations/manifest.json",
-      "bytes": 2997,
-      "sha256": "95fa57539395d2e81a148768b9635741b9bd165e72fa9c5146a8cf21b22a96f6"
+      "bytes": 3829,
+      "sha256": "51f4f78ad9bd017209a00f156da373b50125a3313cd3828e05bbc9f43ceddf22"
     },
     {
       "path": "datasets/security-framework-changes/2026.07.15/security-framework-changes.csv",
@@ -183,9 +313,44 @@
       "sha256": "238afa06361af97a58da7058931bcbdb41d5726881fc8afdb688ac99016146ef"
     },
     {
+      "path": "datasets/security-framework-changes/2026.07.17/security-framework-changes.csv",
+      "bytes": 12476,
+      "sha256": "831b052a43fe408ddeb19181ce5098a5eba859576dd0eb6e748801292a413fe6"
+    },
+    {
+      "path": "datasets/security-framework-changes/2026.07.17/security-framework-changes.json",
+      "bytes": 16532,
+      "sha256": "5b87ef462a6b77322c94ab3d194f8f58cad397e2d0f9b2c9fa7b441a80cd65a8"
+    },
+    {
       "path": "datasets/security-framework-changes/manifest.json",
-      "bytes": 1773,
-      "sha256": "e1f47c8ab70a0420bab84ef6be3586572d183036fd844835e80049f39d88e490"
+      "bytes": 2569,
+      "sha256": "a367e7798aba60c90b9dc2f5c909e13f555316a920d22583124a8bfa42071348"
+    },
+    {
+      "path": "datasets/state-ag-ai-enforcement/2026.07.18/state-ag-ai-enforcement.csv",
+      "bytes": 12475,
+      "sha256": "0adfc7dffe2d4ad2bea15852da93711b0fc6de0fa87bd6f0aeb359c2ee065777"
+    },
+    {
+      "path": "datasets/state-ag-ai-enforcement/2026.07.18/state-ag-ai-enforcement.json",
+      "bytes": 38749,
+      "sha256": "3f9b1a99bed6ead7147dd265bb16dd05e7d2ec1d8e2f424a0965b1f491b85fcd"
+    },
+    {
+      "path": "datasets/state-ag-ai-enforcement/2026.07.19/state-ag-ai-enforcement.csv",
+      "bytes": 12710,
+      "sha256": "7d051f56409232ab1aee66afca8db79e60b55ee7b542ca452d0ddf5f7286db6c"
+    },
+    {
+      "path": "datasets/state-ag-ai-enforcement/2026.07.19/state-ag-ai-enforcement.json",
+      "bytes": 39289,
+      "sha256": "46d0ad1ed684d92fef97e70333057f6789fde0153d9b4fd80873baedefd74710"
+    },
+    {
+      "path": "datasets/state-ag-ai-enforcement/manifest.json",
+      "bytes": 2551,
+      "sha256": "10fdd589fed9ca9585b51feed0d068b1b30449af343fab3b1bbc4b30d2d42185"
     },
     {
       "path": "datasets/us-ai-law-changes/2026.07.12/us-ai-law-changes.csv",
@@ -198,24 +363,44 @@
       "sha256": "61634389e71689de4dd633b0e8f488793b4442acf85181b061a48efa4d1af6a6"
     },
     {
+      "path": "datasets/us-ai-law-changes/2026.07.17/us-ai-law-changes.csv",
+      "bytes": 10617,
+      "sha256": "55e2fe6df9fd67052385f9e84928dc4608b5fc31d8510490db29f52cc6f32d4f"
+    },
+    {
+      "path": "datasets/us-ai-law-changes/2026.07.17/us-ai-law-changes.json",
+      "bytes": 13178,
+      "sha256": "aa5d361b6b926ecc59e243452a556265e2f0be1de23cc3a5f6f25f77f0f642da"
+    },
+    {
+      "path": "datasets/us-ai-law-changes/2026.07.18/us-ai-law-changes.csv",
+      "bytes": 12922,
+      "sha256": "da81319519851d89f32692a64ebef0498cf528301757c4cfff4202065caba4d1"
+    },
+    {
+      "path": "datasets/us-ai-law-changes/2026.07.18/us-ai-law-changes.json",
+      "bytes": 15911,
+      "sha256": "09f32e9acaf86a42837ec2e39f8808f8f5026b79a268e3efb08873e6820d8d90"
+    },
+    {
       "path": "datasets/us-ai-law-changes/manifest.json",
-      "bytes": 1714,
-      "sha256": "9b02783e9932de2e2d95eaee209211c27ced1b803154af4bd8b152cc3d3d9493"
+      "bytes": 3168,
+      "sha256": "d1f60235f54d95bc7cea48f545779adc1d3c0f0223fc9141fc4cc9733c0aaa02"
     },
     {
       "path": "LICENSE.md",
-      "bytes": 565,
-      "sha256": "15dda5ed6b3665365fc96010447ff9b60fdea93ba34db387f4d09ea5be159c2b"
+      "bytes": 539,
+      "sha256": "4d464cac88ea8f967d0db2b930d4bdcc28ddf9e3aca48e506d0fed36c3e9d36a"
     },
     {
       "path": "README.md",
-      "bytes": 2864,
-      "sha256": "7ae90ecb38824b1bbee9d539313cbb451751188b4288d4869f9bf20e2f16fdbe"
+      "bytes": 3153,
+      "sha256": "dc0383fe9f6df144c0c36151f76b03de7c9ca690ea6bc1c2bfb59babe1d3c408"
     },
     {
       "path": "SECURITY.md",
       "bytes": 459,
-      "sha256": "26783881555c81f2010ea333cba49782cd8c13104737fd01eba23849f13eb344"
+      "sha256": "c3291a17c6f255cd24c4d4aa2e3527845aeafec99e448e1787bbadc9773df38f"
     }
   ]
 }

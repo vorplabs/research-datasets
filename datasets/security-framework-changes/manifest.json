@@ -6,27 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, Security Framework Change Tracker (data through 2026-07-15), https://vorplabs.com/security-framework-changes",
   "latest": {
-    "version": "2026.07.15",
+    "version": "2026.07.17",
+    "releasedOn": "2026-07-17",
     "asOf": "2026-07-15",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/security-framework-changes/2026.07.15/security-framework-changes.json",
-        "bytes": 16544,
-        "sha256": "238afa06361af97a58da7058931bcbdb41d5726881fc8afdb688ac99016146ef",
+        "path": "/datasets/security-framework-changes/2026.07.17/security-framework-changes.json",
+        "bytes": 16532,
+        "sha256": "5b87ef462a6b77322c94ab3d194f8f58cad397e2d0f9b2c9fa7b441a80cd65a8",
         "records": 18
       },
       {
         "format": "csv",
-        "path": "/datasets/security-framework-changes/2026.07.15/security-framework-changes.csv",
-        "bytes": 12487,
-        "sha256": "ff555779a9cad08080cdb8e6db20c6aa6010c64c3b369dc247dbb5675a07c86d",
+        "path": "/datasets/security-framework-changes/2026.07.17/security-framework-changes.csv",
+        "bytes": 12476,
+        "sha256": "831b052a43fe408ddeb19181ce5098a5eba859576dd0eb6e748801292a413fe6",
         "records": 18
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-15",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/security-framework-changes/2026.07.17/security-framework-changes.json",
+          "bytes": 16532,
+          "sha256": "5b87ef462a6b77322c94ab3d194f8f58cad397e2d0f9b2c9fa7b441a80cd65a8",
+          "records": 18
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/security-framework-changes/2026.07.17/security-framework-changes.csv",
+          "bytes": 12476,
+          "sha256": "831b052a43fe408ddeb19181ce5098a5eba859576dd0eb6e748801292a413fe6",
+          "records": 18
+        }
+      ]
+    },
     {
       "version": "2026.07.15",
       "asOf": "2026-07-15",
@@ -46,7 +69,8 @@
           "sha256": "ff555779a9cad08080cdb8e6db20c6aa6010c64c3b369dc247dbb5675a07c86d",
           "records": 18
         }
-      ]
+      ],
+      "releasedOn": "2026-07-15"
     }
   ]
 }

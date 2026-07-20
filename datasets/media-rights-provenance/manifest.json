@@ -6,27 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, AI Media Rights, Consent & Provenance Registry (as of 2026-07-15), https://vorplabs.com/models/media-rights",
   "latest": {
-    "version": "2026.07.15",
+    "version": "2026.07.17",
+    "releasedOn": "2026-07-17",
     "asOf": "2026-07-15",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/media-rights-provenance/2026.07.15/media-rights-provenance.json",
-        "bytes": 49578,
-        "sha256": "0d5cff027111db7a712f93fdc1284720899c6a7f83b14150ee58eab20c5b969e",
+        "path": "/datasets/media-rights-provenance/2026.07.17/media-rights-provenance.json",
+        "bytes": 49543,
+        "sha256": "5e1fcc5c12e8a8ba9c17e271c4fd4129490058fcb378f4d6fad746cea313b28b",
         "records": 15
       },
       {
         "format": "csv",
-        "path": "/datasets/media-rights-provenance/2026.07.15/media-rights-provenance.csv",
-        "bytes": 24922,
-        "sha256": "4b538190feb01ef6152eecdc152e31c45aacc7388c6a09c781dcf1cfb4e749aa",
+        "path": "/datasets/media-rights-provenance/2026.07.17/media-rights-provenance.csv",
+        "bytes": 24889,
+        "sha256": "071779e36d68e940437f7a18a6f98b11e7440264b7be6b448f8cb77270e493d4",
         "records": 15
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-15",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/media-rights-provenance/2026.07.17/media-rights-provenance.json",
+          "bytes": 49543,
+          "sha256": "5e1fcc5c12e8a8ba9c17e271c4fd4129490058fcb378f4d6fad746cea313b28b",
+          "records": 15
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/media-rights-provenance/2026.07.17/media-rights-provenance.csv",
+          "bytes": 24889,
+          "sha256": "071779e36d68e940437f7a18a6f98b11e7440264b7be6b448f8cb77270e493d4",
+          "records": 15
+        }
+      ]
+    },
     {
       "version": "2026.07.15",
       "asOf": "2026-07-15",
@@ -46,7 +69,8 @@
           "sha256": "4b538190feb01ef6152eecdc152e31c45aacc7388c6a09c781dcf1cfb4e749aa",
           "records": 15
         }
-      ]
+      ],
+      "releasedOn": "2026-07-15"
     },
     {
       "version": "2026.07.14",
@@ -67,7 +91,8 @@
           "sha256": "ef1ef145432723b733ad4cc219b72fd1e164d38affbaa52a61294723ff49ba6d",
           "records": 15
         }
-      ]
+      ],
+      "releasedOn": "2026-07-14"
     }
   ]
 }

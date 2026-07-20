@@ -4,29 +4,74 @@
   "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/us-ai-law-change-dataset",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseLabel": "CC BY 4.0",
-  "citation": "Vorp Labs, US AI Law Change Dataset (data through 2026-07-12), https://vorplabs.com/ai-regulatory-updates/us-ai-law-change-dataset",
+  "citation": "Vorp Labs, US AI Law Change Dataset (data through 2026-07-17), https://vorplabs.com/ai-regulatory-updates/us-ai-law-change-dataset",
   "latest": {
-    "version": "2026.07.12",
-    "asOf": "2026-07-12",
+    "version": "2026.07.18",
+    "releasedOn": "2026-07-18",
+    "asOf": "2026-07-17",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/us-ai-law-changes/2026.07.12/us-ai-law-changes.json",
-        "bytes": 13217,
-        "sha256": "61634389e71689de4dd633b0e8f488793b4442acf85181b061a48efa4d1af6a6",
-        "records": 10
+        "path": "/datasets/us-ai-law-changes/2026.07.18/us-ai-law-changes.json",
+        "bytes": 15911,
+        "sha256": "09f32e9acaf86a42837ec2e39f8808f8f5026b79a268e3efb08873e6820d8d90",
+        "records": 12
       },
       {
         "format": "csv",
-        "path": "/datasets/us-ai-law-changes/2026.07.12/us-ai-law-changes.csv",
-        "bytes": 10635,
-        "sha256": "b6231b3d1c0b940267d52b2b0fbe546c1ced6de7f59518e60e73636d4408772d",
-        "records": 10
+        "path": "/datasets/us-ai-law-changes/2026.07.18/us-ai-law-changes.csv",
+        "bytes": 12922,
+        "sha256": "da81319519851d89f32692a64ebef0498cf528301757c4cfff4202065caba4d1",
+        "records": 12
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.18",
+      "releasedOn": "2026-07-18",
+      "asOf": "2026-07-17",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/us-ai-law-changes/2026.07.18/us-ai-law-changes.json",
+          "bytes": 15911,
+          "sha256": "09f32e9acaf86a42837ec2e39f8808f8f5026b79a268e3efb08873e6820d8d90",
+          "records": 12
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/us-ai-law-changes/2026.07.18/us-ai-law-changes.csv",
+          "bytes": 12922,
+          "sha256": "da81319519851d89f32692a64ebef0498cf528301757c4cfff4202065caba4d1",
+          "records": 12
+        }
+      ]
+    },
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-12",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/us-ai-law-changes/2026.07.17/us-ai-law-changes.json",
+          "bytes": 13178,
+          "sha256": "aa5d361b6b926ecc59e243452a556265e2f0be1de23cc3a5f6f25f77f0f642da",
+          "records": 10
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/us-ai-law-changes/2026.07.17/us-ai-law-changes.csv",
+          "bytes": 10617,
+          "sha256": "55e2fe6df9fd67052385f9e84928dc4608b5fc31d8510490db29f52cc6f32d4f",
+          "records": 10
+        }
+      ]
+    },
     {
       "version": "2026.07.12",
       "asOf": "2026-07-12",
@@ -46,7 +91,8 @@
           "sha256": "b6231b3d1c0b940267d52b2b0fbe546c1ced6de7f59518e60e73636d4408772d",
           "records": 10
         }
-      ]
+      ],
+      "releasedOn": "2026-07-12"
     }
   ]
 }

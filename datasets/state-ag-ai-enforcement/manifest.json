@@ -1,0 +1,76 @@
+{
+  "dataset": "state-ag-ai-enforcement",
+  "title": "US State AG AI Enforcement Tracker",
+  "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/state-ag-enforcement",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, US State AG AI Enforcement Tracker (as of 2026-07-18), https://vorplabs.com/ai-regulatory-updates/state-ag-enforcement",
+  "latest": {
+    "version": "2026.07.19",
+    "releasedOn": "2026-07-19",
+    "asOf": "2026-07-18",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/state-ag-ai-enforcement/2026.07.19/state-ag-ai-enforcement.json",
+        "bytes": 39289,
+        "sha256": "46d0ad1ed684d92fef97e70333057f6789fde0153d9b4fd80873baedefd74710",
+        "records": 9
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/state-ag-ai-enforcement/2026.07.19/state-ag-ai-enforcement.csv",
+        "bytes": 12710,
+        "sha256": "7d051f56409232ab1aee66afca8db79e60b55ee7b542ca452d0ddf5f7286db6c",
+        "records": 9
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.19",
+      "releasedOn": "2026-07-19",
+      "asOf": "2026-07-18",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/state-ag-ai-enforcement/2026.07.19/state-ag-ai-enforcement.json",
+          "bytes": 39289,
+          "sha256": "46d0ad1ed684d92fef97e70333057f6789fde0153d9b4fd80873baedefd74710",
+          "records": 9
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/state-ag-ai-enforcement/2026.07.19/state-ag-ai-enforcement.csv",
+          "bytes": 12710,
+          "sha256": "7d051f56409232ab1aee66afca8db79e60b55ee7b542ca452d0ddf5f7286db6c",
+          "records": 9
+        }
+      ]
+    },
+    {
+      "version": "2026.07.18",
+      "releasedOn": "2026-07-18",
+      "asOf": "2026-07-18",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/state-ag-ai-enforcement/2026.07.18/state-ag-ai-enforcement.json",
+          "bytes": 38749,
+          "sha256": "3f9b1a99bed6ead7147dd265bb16dd05e7d2ec1d8e2f424a0965b1f491b85fcd",
+          "records": 9
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/state-ag-ai-enforcement/2026.07.18/state-ag-ai-enforcement.csv",
+          "bytes": 12475,
+          "sha256": "0adfc7dffe2d4ad2bea15852da93711b0fc6de0fa87bd6f0aeb359c2ee065777",
+          "records": 9
+        }
+      ]
+    }
+  ]
+}

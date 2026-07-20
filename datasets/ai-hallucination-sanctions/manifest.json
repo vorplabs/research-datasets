@@ -1,0 +1,76 @@
+{
+  "dataset": "ai-hallucination-sanctions",
+  "title": "AI Hallucination Court Sanctions Tracker",
+  "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/ai-hallucination-sanctions",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, AI Hallucination Court Sanctions Tracker (as of 2026-07-19), https://vorplabs.com/ai-regulatory-updates/ai-hallucination-sanctions",
+  "latest": {
+    "version": "2026.07.20",
+    "releasedOn": "2026-07-20",
+    "asOf": "2026-07-19",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/ai-hallucination-sanctions/2026.07.20/ai-hallucination-sanctions.json",
+        "bytes": 23284,
+        "sha256": "90baca60dd0c4c9a813db6c2128b989851196e6f27a0e7482ea19426f0fabd03",
+        "records": 10
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/ai-hallucination-sanctions/2026.07.20/ai-hallucination-sanctions.csv",
+        "bytes": 9533,
+        "sha256": "52b58eab11cbb710fe28196fef7b77cdb21bac9f75331361fbda09274e4a19a0",
+        "records": 10
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.20",
+      "releasedOn": "2026-07-20",
+      "asOf": "2026-07-19",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-hallucination-sanctions/2026.07.20/ai-hallucination-sanctions.json",
+          "bytes": 23284,
+          "sha256": "90baca60dd0c4c9a813db6c2128b989851196e6f27a0e7482ea19426f0fabd03",
+          "records": 10
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-hallucination-sanctions/2026.07.20/ai-hallucination-sanctions.csv",
+          "bytes": 9533,
+          "sha256": "52b58eab11cbb710fe28196fef7b77cdb21bac9f75331361fbda09274e4a19a0",
+          "records": 10
+        }
+      ]
+    },
+    {
+      "version": "2026.07.19",
+      "releasedOn": "2026-07-19",
+      "asOf": "2026-07-18",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-hallucination-sanctions/2026.07.19/ai-hallucination-sanctions.json",
+          "bytes": 21362,
+          "sha256": "40b73b64ce1545260dd96a37af642997f222e2453677b65ae53a6dfb7b437286",
+          "records": 10
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-hallucination-sanctions/2026.07.19/ai-hallucination-sanctions.csv",
+          "bytes": 8854,
+          "sha256": "a130b3ef8e00f206ff21f572f192be9866bdd9e1d4daf633a7c045ae61d2ba97",
+          "records": 10
+        }
+      ]
+    }
+  ]
+}

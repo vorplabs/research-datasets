@@ -6,27 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, Frontier AI Safety Framework Comparison Dataset (data through 2026-07-12), https://vorplabs.com/ai-regulatory-updates/frontier-ai-framework-comparison",
   "latest": {
-    "version": "2026.07.12",
+    "version": "2026.07.17",
+    "releasedOn": "2026-07-17",
     "asOf": "2026-07-12",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/frontier-framework-comparison/2026.07.12/frontier-framework-comparison.json",
-        "bytes": 20598,
-        "sha256": "e0a2fa410fdf5ea7bfbb1f7070054753a7d91c3e841b65de3c6cbe3b85d0dc0b",
+        "path": "/datasets/frontier-framework-comparison/2026.07.17/frontier-framework-comparison.json",
+        "bytes": 20595,
+        "sha256": "cd7738e5b5007742e7c7845b8111e5d2b7718f5c5fdd2957baebf5510a5f0bbe",
         "records": 12
       },
       {
         "format": "csv",
-        "path": "/datasets/frontier-framework-comparison/2026.07.12/frontier-framework-comparison.csv",
-        "bytes": 16309,
-        "sha256": "09727251a33ee91367d0ef55e27fd1254d8f0f1a0800860635d3d7fad67436b7",
+        "path": "/datasets/frontier-framework-comparison/2026.07.17/frontier-framework-comparison.csv",
+        "bytes": 16305,
+        "sha256": "878d9f81c10b5583b566cccc359f5958900348237ed61bd55bafa0182aa873f5",
         "records": 12
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-12",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/frontier-framework-comparison/2026.07.17/frontier-framework-comparison.json",
+          "bytes": 20595,
+          "sha256": "cd7738e5b5007742e7c7845b8111e5d2b7718f5c5fdd2957baebf5510a5f0bbe",
+          "records": 12
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/frontier-framework-comparison/2026.07.17/frontier-framework-comparison.csv",
+          "bytes": 16305,
+          "sha256": "878d9f81c10b5583b566cccc359f5958900348237ed61bd55bafa0182aa873f5",
+          "records": 12
+        }
+      ]
+    },
     {
       "version": "2026.07.12",
       "asOf": "2026-07-12",
@@ -46,7 +69,8 @@
           "sha256": "09727251a33ee91367d0ef55e27fd1254d8f0f1a0800860635d3d7fad67436b7",
           "records": 12
         }
-      ]
+      ],
+      "releasedOn": "2026-07-12"
     }
   ]
 }

@@ -5,7 +5,8 @@
       "title": "Security Framework Change Dataset",
       "canonicalPage": "https://vorplabs.com/security-framework-changes",
       "manifest": "/datasets/security-framework-changes/manifest.json",
-      "latestVersion": "2026.07.15",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-15",
       "records": 18
     },
@@ -14,7 +15,8 @@
       "title": "E-Invoicing Mandate Phase Dataset",
       "canonicalPage": "https://vorplabs.com/e-invoicing-mandates",
       "manifest": "/datasets/einvoicing-mandates/manifest.json",
-      "latestVersion": "2026.07.15",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-15",
       "records": 15
     },
@@ -23,16 +25,38 @@
       "title": "US Federal AI Enforcement Tracker",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/federal-enforcement",
       "manifest": "/datasets/federal-ai-enforcement/manifest.json",
-      "latestVersion": "2026.07.10",
-      "asOf": "2026-07-10",
-      "records": 30
+      "latestVersion": "2026.07.19",
+      "releasedOn": "2026-07-19",
+      "asOf": "2026-07-18",
+      "records": 42
+    },
+    {
+      "dataset": "ai-hallucination-sanctions",
+      "title": "AI Hallucination Court Sanctions Tracker",
+      "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/ai-hallucination-sanctions",
+      "manifest": "/datasets/ai-hallucination-sanctions/manifest.json",
+      "latestVersion": "2026.07.20",
+      "releasedOn": "2026-07-20",
+      "asOf": "2026-07-19",
+      "records": 10
+    },
+    {
+      "dataset": "state-ag-ai-enforcement",
+      "title": "US State AG AI Enforcement Tracker",
+      "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/state-ag-enforcement",
+      "manifest": "/datasets/state-ag-ai-enforcement/manifest.json",
+      "latestVersion": "2026.07.19",
+      "releasedOn": "2026-07-19",
+      "asOf": "2026-07-18",
+      "records": 9
     },
     {
       "dataset": "ai-threat-monitoring",
       "title": "AI Scam & Fraud Tracker",
       "canonicalPage": "https://vorplabs.com/ai-threat-monitoring",
       "manifest": "/datasets/ai-threat-monitoring/manifest.json",
-      "latestVersion": "2026.07.10",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-10",
       "records": 12
     },
@@ -41,7 +65,8 @@
       "title": "AI Company Security Incident Ledger",
       "canonicalPage": "https://vorplabs.com/ai-threat-monitoring/security-incidents",
       "manifest": "/datasets/ai-security-incidents/manifest.json",
-      "latestVersion": "2026.07.10",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-10",
       "records": 19
     },
@@ -50,7 +75,8 @@
       "title": "Deepfake & AI Impersonation Law Tracker",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/deepfake-laws",
       "manifest": "/datasets/deepfake-laws/manifest.json",
-      "latestVersion": "2026.07.10",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-10",
       "records": 46
     },
@@ -59,7 +85,8 @@
       "title": "AI Model Deprecation Tracker",
       "canonicalPage": "https://vorplabs.com/models/deprecations",
       "manifest": "/datasets/model-deprecations/manifest.json",
-      "latestVersion": "2026.07.15",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-15",
       "records": 48
     },
@@ -68,7 +95,8 @@
       "title": "Frontier AI Safety Framework Comparison Dataset",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/frontier-ai-framework-comparison",
       "manifest": "/datasets/frontier-framework-comparison/manifest.json",
-      "latestVersion": "2026.07.12",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-12",
       "records": 12
     },
@@ -77,16 +105,18 @@
       "title": "US AI Law Change Dataset",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/us-ai-law-change-dataset",
       "manifest": "/datasets/us-ai-law-changes/manifest.json",
-      "latestVersion": "2026.07.12",
-      "asOf": "2026-07-12",
-      "records": 10
+      "latestVersion": "2026.07.18",
+      "releasedOn": "2026-07-18",
+      "asOf": "2026-07-17",
+      "records": 12
     },
     {
       "dataset": "media-rights-provenance",
       "title": "AI Media Rights, Consent & Provenance Registry",
       "canonicalPage": "https://vorplabs.com/models/media-rights",
       "manifest": "/datasets/media-rights-provenance/manifest.json",
-      "latestVersion": "2026.07.15",
+      "latestVersion": "2026.07.17",
+      "releasedOn": "2026-07-17",
       "asOf": "2026-07-15",
       "records": 15
     }

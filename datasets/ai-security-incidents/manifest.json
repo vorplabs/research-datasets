@@ -6,27 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, AI Company Security Incident Ledger (as of 2026-07-10), https://vorplabs.com/ai-threat-monitoring/security-incidents",
   "latest": {
-    "version": "2026.07.10",
+    "version": "2026.07.17",
+    "releasedOn": "2026-07-17",
     "asOf": "2026-07-10",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/ai-security-incidents/2026.07.10/ai-security-incidents.json",
-        "bytes": 43521,
-        "sha256": "d65710d546b2e2a5611bc87230fbc17d9980520a4c8e6673117fba849a4e5f46",
+        "path": "/datasets/ai-security-incidents/2026.07.17/ai-security-incidents.json",
+        "bytes": 43518,
+        "sha256": "2ad831a4eef63f0e58d2eb1c5bf8e5866e1cc78712997abd9bbd408e01ef5152",
         "records": 19
       },
       {
         "format": "csv",
-        "path": "/datasets/ai-security-incidents/2026.07.10/ai-security-incidents.csv",
-        "bytes": 21338,
-        "sha256": "b39ba69d0f1afef4b3ed4d1214e41266b332df40d326605ae26109b2ec9dd328",
+        "path": "/datasets/ai-security-incidents/2026.07.17/ai-security-incidents.csv",
+        "bytes": 21335,
+        "sha256": "0680fcc8687654891e2cf22aa12438bcf64d00686a4dd6a5f328166afda0f72d",
         "records": 19
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-10",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-security-incidents/2026.07.17/ai-security-incidents.json",
+          "bytes": 43518,
+          "sha256": "2ad831a4eef63f0e58d2eb1c5bf8e5866e1cc78712997abd9bbd408e01ef5152",
+          "records": 19
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-security-incidents/2026.07.17/ai-security-incidents.csv",
+          "bytes": 21335,
+          "sha256": "0680fcc8687654891e2cf22aa12438bcf64d00686a4dd6a5f328166afda0f72d",
+          "records": 19
+        }
+      ]
+    },
     {
       "version": "2026.07.10",
       "asOf": "2026-07-10",
@@ -46,7 +69,8 @@
           "sha256": "b39ba69d0f1afef4b3ed4d1214e41266b332df40d326605ae26109b2ec9dd328",
           "records": 19
         }
-      ]
+      ],
+      "releasedOn": "2026-07-10"
     }
   ]
 }

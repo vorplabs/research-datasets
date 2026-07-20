@@ -2,37 +2,39 @@
 
 Versioned, source-backed datasets maintained by Vorp Labs Research and published by Vorp Labs.
 
-Every release includes JSON and CSV files, a manifest, record counts, and SHA-256 checksums. The canonical pages explain scope, methodology, source selection, caveats, and update cadence.
+Every immutable release includes JSON and CSV files. Its manifest records the version, as-of date, record count, byte count, and SHA-256 checksum. The canonical Vorp page remains the source of truth for scope, methodology, caveats, corrections, and update cadence.
 
 ## Latest releases
 
-| Dataset | Version | As of | Records | Canonical page |
+| Dataset | Version | As of | Records | Source |
 |---|---:|---:|---:|---|
-| Vorp Labs — Security Framework Change Dataset | 2026.07.15 | 2026-07-15 | 18 | [Source](https://vorplabs.com/security-framework-changes) |
-| Vorp Labs — E-Invoicing Mandate Phase Dataset | 2026.07.15 | 2026-07-15 | 15 | [Source](https://vorplabs.com/e-invoicing-mandates) |
-| Vorp Labs — US Federal AI Enforcement Tracker | 2026.07.10 | 2026-07-10 | 30 | [Source](https://vorplabs.com/ai-regulatory-updates/federal-enforcement) |
-| Vorp Labs — AI Scam & Fraud Tracker | 2026.07.10 | 2026-07-10 | 12 | [Source](https://vorplabs.com/ai-threat-monitoring) |
-| Vorp Labs — AI Company Security Incident Ledger | 2026.07.10 | 2026-07-10 | 19 | [Source](https://vorplabs.com/ai-threat-monitoring/security-incidents) |
-| Vorp Labs — Deepfake & AI Impersonation Law Tracker | 2026.07.10 | 2026-07-10 | 46 | [Source](https://vorplabs.com/ai-regulatory-updates/deepfake-laws) |
-| Vorp Labs — AI Model Deprecation Tracker | 2026.07.15 | 2026-07-15 | 48 | [Source](https://vorplabs.com/models/deprecations) |
-| Vorp Labs — Frontier AI Safety Framework Comparison Dataset | 2026.07.12 | 2026-07-12 | 12 | [Source](https://vorplabs.com/ai-regulatory-updates/frontier-ai-framework-comparison) |
-| Vorp Labs — US AI Law Change Dataset | 2026.07.12 | 2026-07-12 | 10 | [Source](https://vorplabs.com/ai-regulatory-updates/us-ai-law-change-dataset) |
-| Vorp Labs — AI Media Rights, Consent & Provenance Registry | 2026.07.15 | 2026-07-15 | 15 | [Source](https://vorplabs.com/models/media-rights) |
+| Security Framework Change Dataset | 2026.07.17 | 2026-07-15 | 18 | [Canonical page](https://vorplabs.com/security-framework-changes) |
+| E-Invoicing Mandate Phase Dataset | 2026.07.17 | 2026-07-15 | 15 | [Canonical page](https://vorplabs.com/e-invoicing-mandates) |
+| US Federal AI Enforcement Tracker | 2026.07.19 | 2026-07-18 | 42 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/federal-enforcement) |
+| AI Hallucination Court Sanctions Tracker | 2026.07.20 | 2026-07-19 | 10 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/ai-hallucination-sanctions) |
+| US State AG AI Enforcement Tracker | 2026.07.19 | 2026-07-18 | 9 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/state-ag-enforcement) |
+| AI Scam & Fraud Tracker | 2026.07.17 | 2026-07-10 | 12 | [Canonical page](https://vorplabs.com/ai-threat-monitoring) |
+| AI Company Security Incident Ledger | 2026.07.17 | 2026-07-10 | 19 | [Canonical page](https://vorplabs.com/ai-threat-monitoring/security-incidents) |
+| Deepfake & AI Impersonation Law Tracker | 2026.07.17 | 2026-07-10 | 46 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/deepfake-laws) |
+| AI Model Deprecation Tracker | 2026.07.17 | 2026-07-15 | 48 | [Canonical page](https://vorplabs.com/models/deprecations) |
+| Frontier AI Safety Framework Comparison Dataset | 2026.07.17 | 2026-07-12 | 12 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/frontier-ai-framework-comparison) |
+| US AI Law Change Dataset | 2026.07.18 | 2026-07-17 | 12 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/us-ai-law-change-dataset) |
+| AI Media Rights, Consent & Provenance Registry | 2026.07.17 | 2026-07-15 | 15 | [Canonical page](https://vorplabs.com/models/media-rights) |
 
 ## Citation and attribution
 
-Use the citation in each dataset's manifest.json. In prose, keep the source attached to the finding—for example: “According to Vorp Labs' tracker…”—and link to the canonical dataset page.
+Use the citation in each dataset manifest and preserve the release version or as-of date. In prose, credit Vorp Labs Research and link to the canonical dataset page.
 
-The organization-level citation metadata is in [CITATION.cff](CITATION.cff). Dataset files and repository documentation are released under [CC BY 4.0](LICENSE.md).
+Organization-level citation metadata is in [CITATION.cff](CITATION.cff). Dataset files and original repository documentation are released under [CC BY 4.0](LICENSE.md).
 
 ## Repository layout
 
-- datasets/index.json: catalog of all ten datasets.
-- datasets/&lt;dataset&gt;/manifest.json: release history and checksums.
-- datasets/&lt;dataset&gt;/&lt;version&gt;/: immutable JSON and CSV snapshots.
-- CORRECTIONS.md: how to report a data correction.
-- SECURITY.md: how to report a security concern without posting it publicly.
+- `datasets/index.json`: catalog of all 12 datasets.
+- `datasets/<dataset>/manifest.json`: release history, citations, and checksums.
+- `datasets/<dataset>/<version>/`: immutable JSON and CSV snapshots.
+- `PUBLICATION-MANIFEST.json`: checksums for the complete generated mirror.
+- `CORRECTIONS.md`: source-backed correction process.
 
 ## Verification
 
-Before citing a record, check its lastChecked or asOf date and follow the primary-source URL. These datasets are descriptive research, not legal, financial, or procurement advice.
+Before relying on a record, check its source URL and last-checked or as-of date. These datasets are descriptive research, not legal, financial, or procurement advice.

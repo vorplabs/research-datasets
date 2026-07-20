@@ -6,27 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, AI Model Deprecation Tracker (as of 2026-07-15), https://vorplabs.com/models/deprecations",
   "latest": {
-    "version": "2026.07.15",
+    "version": "2026.07.17",
+    "releasedOn": "2026-07-17",
     "asOf": "2026-07-15",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/model-deprecations/2026.07.15/model-deprecations.json",
-        "bytes": 26379,
-        "sha256": "ae68c61e94d31ec476c5d3ab65284e89ba8d84ac558a56c734d19e2adab4cb90",
+        "path": "/datasets/model-deprecations/2026.07.17/model-deprecations.json",
+        "bytes": 26367,
+        "sha256": "5bae9e0ae6c115d66c8323b5cf970d6b513bd992b723da8c31afd582468d8a8a",
         "records": 48
       },
       {
         "format": "csv",
-        "path": "/datasets/model-deprecations/2026.07.15/model-deprecations.csv",
-        "bytes": 20239,
-        "sha256": "d447d981f8b20d237c61c888734cd3d122b6544cdc16ff991232ad62a6abac15",
+        "path": "/datasets/model-deprecations/2026.07.17/model-deprecations.csv",
+        "bytes": 20230,
+        "sha256": "0a1c082833a0a6a25e8b7a55888a11706c42f51b7305a1c39fc2527183e3b62b",
         "records": 48
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.17",
+      "releasedOn": "2026-07-17",
+      "asOf": "2026-07-15",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/model-deprecations/2026.07.17/model-deprecations.json",
+          "bytes": 26367,
+          "sha256": "5bae9e0ae6c115d66c8323b5cf970d6b513bd992b723da8c31afd582468d8a8a",
+          "records": 48
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/model-deprecations/2026.07.17/model-deprecations.csv",
+          "bytes": 20230,
+          "sha256": "0a1c082833a0a6a25e8b7a55888a11706c42f51b7305a1c39fc2527183e3b62b",
+          "records": 48
+        }
+      ]
+    },
     {
       "version": "2026.07.15",
       "asOf": "2026-07-15",
@@ -46,7 +69,8 @@
           "sha256": "d447d981f8b20d237c61c888734cd3d122b6544cdc16ff991232ad62a6abac15",
           "records": 48
         }
-      ]
+      ],
+      "releasedOn": "2026-07-15"
     },
     {
       "version": "2026.07.14",
@@ -67,7 +91,8 @@
           "sha256": "87259760c4c76e0e8fe666885494ff202ba0189802f18382345ce6d5ee6ffdd2",
           "records": 31
         }
-      ]
+      ],
+      "releasedOn": "2026-07-14"
     },
     {
       "version": "2026.07.05",
@@ -88,7 +113,8 @@
           "sha256": "484891e6e456dd687231cfd7a2a4fafc220e13d92335cf398b9499f4c2fedb6e",
           "records": 19
         }
-      ]
+      ],
+      "releasedOn": "2026-07-05"
     }
   ]
 }
