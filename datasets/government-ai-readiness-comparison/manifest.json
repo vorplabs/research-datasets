@@ -1,0 +1,54 @@
+{
+  "dataset": "government-ai-readiness-comparison",
+  "title": "US state and European government AI readiness comparison",
+  "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/government-ai-readiness/us-eu-comparison",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs Research, \"US State and European Government AI Readiness Comparison,\" vorplabs.com, 2026.",
+  "latest": {
+    "version": "2026.07.20",
+    "releasedOn": "2026-07-20",
+    "asOf": "2026-07-20",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.json",
+        "bytes": 13947,
+        "sha256": "4d88e79c8cd94b277fbe5893c1573076e595ac3a4c42961c3c1427df743b6119",
+        "records": 20
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.csv",
+        "bytes": 3344,
+        "sha256": "946608c0416fb9cf694694d8c8867848b95a4e3a8e3c4e02d4ddd48831b3d76d",
+        "records": 20
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.20",
+      "releasedOn": "2026-07-20",
+      "asOf": "2026-07-20",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.json",
+          "bytes": 13947,
+          "sha256": "4d88e79c8cd94b277fbe5893c1573076e595ac3a4c42961c3c1427df743b6119",
+          "records": 20
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.csv",
+          "bytes": 3344,
+          "sha256": "946608c0416fb9cf694694d8c8867848b95a4e3a8e3c4e02d4ddd48831b3d76d",
+          "records": 20
+        }
+      ]
+    }
+  ]
+}

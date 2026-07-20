@@ -1,6 +1,26 @@
 {
   "datasets": [
     {
+      "dataset": "government-ai-readiness",
+      "title": "Government AI Readiness Tracker",
+      "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/government-ai-readiness",
+      "manifest": "/datasets/government-ai-readiness/manifest.json",
+      "latestVersion": "2026.07.20",
+      "releasedOn": "2026-07-20",
+      "asOf": "2026-07-20",
+      "records": 8
+    },
+    {
+      "dataset": "government-ai-readiness-comparison",
+      "title": "US state and European government AI readiness comparison",
+      "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/government-ai-readiness/us-eu-comparison",
+      "manifest": "/datasets/government-ai-readiness-comparison/manifest.json",
+      "latestVersion": "2026.07.20",
+      "releasedOn": "2026-07-20",
+      "asOf": "2026-07-20",
+      "records": 20
+    },
+    {
       "dataset": "security-framework-changes",
       "title": "Security Framework Change Dataset",
       "canonicalPage": "https://vorplabs.com/security-framework-changes",

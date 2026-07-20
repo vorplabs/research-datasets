@@ -5,7 +5,7 @@
   "repository": "https://github.com/vorplabs/research-datasets",
   "license": "CC BY 4.0",
   "latestReleasedOn": "2026-07-20",
-  "datasetCount": 12,
+  "datasetCount": 14,
   "files": [
     {
       "path": "CITATION.cff",
@@ -218,9 +218,39 @@
       "sha256": "a8fedd5e49ca4553ebb5c1bae1ed382aeec4416445a7674b316c456ca3e79929"
     },
     {
+      "path": "datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.csv",
+      "bytes": 3344,
+      "sha256": "946608c0416fb9cf694694d8c8867848b95a4e3a8e3c4e02d4ddd48831b3d76d"
+    },
+    {
+      "path": "datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.json",
+      "bytes": 13947,
+      "sha256": "4d88e79c8cd94b277fbe5893c1573076e595ac3a4c42961c3c1427df743b6119"
+    },
+    {
+      "path": "datasets/government-ai-readiness-comparison/manifest.json",
+      "bytes": 1950,
+      "sha256": "0c190d0fcac6e916522a3a296adaef10996199f671a3b55bc1c1a9433b6c3db9"
+    },
+    {
+      "path": "datasets/government-ai-readiness/2026.07.20/government-ai-readiness.csv",
+      "bytes": 2289,
+      "sha256": "65d942292cd08878ee31a39f04f3e3586a77d6689b53452d378bc5343e707d66"
+    },
+    {
+      "path": "datasets/government-ai-readiness/2026.07.20/government-ai-readiness.json",
+      "bytes": 59955,
+      "sha256": "38b3b71768f27ce99f3ede4aa1933967852c9773a8ee3a8cf39b3e0c5e9d9c57"
+    },
+    {
+      "path": "datasets/government-ai-readiness/manifest.json",
+      "bytes": 1780,
+      "sha256": "3b380b813587371feb0c2f0e8a06d585157f34a99ab3f598ee6d0692d50213c6"
+    },
+    {
       "path": "datasets/index.json",
-      "bytes": 4552,
-      "sha256": "14785e1156bebbe59038a165dd8b01a20a064cf14e1bdeeaa81351fb827852f7"
+      "bytes": 5391,
+      "sha256": "aa0cb7664400f4d1cf3c1af9d5ce2887d79c32b8207ccba81c9697ae56d48166"
     },
     {
       "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.csv",
@@ -394,8 +424,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3153,
-      "sha256": "dc0383fe9f6df144c0c36151f76b03de7c9ca690ea6bc1c2bfb59babe1d3c408"
+      "bytes": 3502,
+      "sha256": "8f7f938ee233abdbd9b8746ecda022c2ef09ec7aeaa619d1cfa2a2d97c6b09d9"
     },
     {
       "path": "SECURITY.md",

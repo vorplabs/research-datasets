@@ -8,6 +8,8 @@ Every immutable release includes JSON and CSV files. Its manifest records the ve
 
 | Dataset | Version | As of | Records | Source |
 |---|---:|---:|---:|---|
+| Government AI Readiness Tracker | 2026.07.20 | 2026-07-20 | 8 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/government-ai-readiness) |
+| US state and European government AI readiness comparison | 2026.07.20 | 2026-07-20 | 20 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/government-ai-readiness/us-eu-comparison) |
 | Security Framework Change Dataset | 2026.07.17 | 2026-07-15 | 18 | [Canonical page](https://vorplabs.com/security-framework-changes) |
 | E-Invoicing Mandate Phase Dataset | 2026.07.17 | 2026-07-15 | 15 | [Canonical page](https://vorplabs.com/e-invoicing-mandates) |
 | US Federal AI Enforcement Tracker | 2026.07.19 | 2026-07-18 | 42 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/federal-enforcement) |
@@ -29,7 +31,7 @@ Organization-level citation metadata is in [CITATION.cff](CITATION.cff). Dataset
 
 ## Repository layout
 
-- `datasets/index.json`: catalog of all 12 datasets.
+- `datasets/index.json`: catalog of all 14 datasets.
 - `datasets/<dataset>/manifest.json`: release history, citations, and checksums.
 - `datasets/<dataset>/<version>/`: immutable JSON and CSV snapshots.
 - `PUBLICATION-MANIFEST.json`: checksums for the complete generated mirror.
