@@ -1,0 +1,54 @@
+{
+  "dataset": "us-ai-procurement",
+  "title": "US Public-Sector AI Procurement Clause and Policy Inventory",
+  "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/us-ai-procurement",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, US Public-Sector AI Procurement Clause and Policy Inventory (as of 2026-07-21), https://vorplabs.com/ai-regulatory-updates/us-ai-procurement",
+  "latest": {
+    "version": "2026.07.21",
+    "releasedOn": "2026-07-21",
+    "asOf": "2026-07-21",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/us-ai-procurement/2026.07.21/us-ai-procurement.json",
+        "bytes": 23034,
+        "sha256": "1daadcd1bd96fb20b49919020d466912f1d54901bdd981af8b1fd74bc1c4b918",
+        "records": 20
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/us-ai-procurement/2026.07.21/us-ai-procurement.csv",
+        "bytes": 16348,
+        "sha256": "e991bb323a56a05d42d4166666071e49d6d690cbd49ed03a14d7c41361448b9f",
+        "records": 20
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.21",
+      "releasedOn": "2026-07-21",
+      "asOf": "2026-07-21",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/us-ai-procurement/2026.07.21/us-ai-procurement.json",
+          "bytes": 23034,
+          "sha256": "1daadcd1bd96fb20b49919020d466912f1d54901bdd981af8b1fd74bc1c4b918",
+          "records": 20
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/us-ai-procurement/2026.07.21/us-ai-procurement.csv",
+          "bytes": 16348,
+          "sha256": "e991bb323a56a05d42d4166666071e49d6d690cbd49ed03a14d7c41361448b9f",
+          "records": 20
+        }
+      ]
+    }
+  ]
+}

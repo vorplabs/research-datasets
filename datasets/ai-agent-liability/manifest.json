@@ -1,0 +1,54 @@
+{
+  "dataset": "ai-agent-liability",
+  "title": "AI Agent Liability, Insurance, and Attestation Tracker",
+  "canonicalPage": "https://vorplabs.com/ai-agent-liability",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, AI Agent Liability, Insurance, and Attestation Tracker (as of 2026-07-21), https://vorplabs.com/ai-agent-liability",
+  "latest": {
+    "version": "2026.07.21",
+    "releasedOn": "2026-07-21",
+    "asOf": "2026-07-21",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/ai-agent-liability/2026.07.21/ai-agent-liability.json",
+        "bytes": 35001,
+        "sha256": "5f8aca0d63bf951f24f1f7f7a9b89ebffa58868f2ce10f5cb2d8380b17f0c386",
+        "records": 28
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/ai-agent-liability/2026.07.21/ai-agent-liability.csv",
+        "bytes": 19769,
+        "sha256": "b9fca0ce37f58d6cff02308bd7b57927fda45d5c693e43a04c94241b813f77b5",
+        "records": 28
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.21",
+      "releasedOn": "2026-07-21",
+      "asOf": "2026-07-21",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-agent-liability/2026.07.21/ai-agent-liability.json",
+          "bytes": 35001,
+          "sha256": "5f8aca0d63bf951f24f1f7f7a9b89ebffa58868f2ce10f5cb2d8380b17f0c386",
+          "records": 28
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-agent-liability/2026.07.21/ai-agent-liability.csv",
+          "bytes": 19769,
+          "sha256": "b9fca0ce37f58d6cff02308bd7b57927fda45d5c693e43a04c94241b813f77b5",
+          "records": 28
+        }
+      ]
+    }
+  ]
+}

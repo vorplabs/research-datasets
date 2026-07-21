@@ -5,8 +5,8 @@
       "title": "Government AI Readiness Tracker",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/government-ai-readiness",
       "manifest": "/datasets/government-ai-readiness/manifest.json",
-      "latestVersion": "2026.07.20",
-      "releasedOn": "2026-07-20",
+      "latestVersion": "2026.07.21",
+      "releasedOn": "2026-07-21",
       "asOf": "2026-07-20",
       "records": 8
     },
@@ -15,8 +15,8 @@
       "title": "US state and European government AI readiness comparison",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/government-ai-readiness/us-eu-comparison",
       "manifest": "/datasets/government-ai-readiness-comparison/manifest.json",
-      "latestVersion": "2026.07.20",
-      "releasedOn": "2026-07-20",
+      "latestVersion": "2026.07.21",
+      "releasedOn": "2026-07-21",
       "asOf": "2026-07-20",
       "records": 20
     },
@@ -139,6 +139,26 @@
       "releasedOn": "2026-07-17",
       "asOf": "2026-07-15",
       "records": 15
+    },
+    {
+      "dataset": "us-ai-procurement",
+      "title": "US Public-Sector AI Procurement Clause and Policy Inventory",
+      "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/us-ai-procurement",
+      "manifest": "/datasets/us-ai-procurement/manifest.json",
+      "latestVersion": "2026.07.21",
+      "releasedOn": "2026-07-21",
+      "asOf": "2026-07-21",
+      "records": 20
+    },
+    {
+      "dataset": "ai-agent-liability",
+      "title": "AI Agent Liability, Insurance, and Attestation Tracker",
+      "canonicalPage": "https://vorplabs.com/ai-agent-liability",
+      "manifest": "/datasets/ai-agent-liability/manifest.json",
+      "latestVersion": "2026.07.21",
+      "releasedOn": "2026-07-21",
+      "asOf": "2026-07-21",
+      "records": 28
     }
   ]
 }

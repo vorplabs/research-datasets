@@ -6,28 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs Research, \"US State and European Government AI Readiness Comparison,\" vorplabs.com, 2026.",
   "latest": {
-    "version": "2026.07.20",
-    "releasedOn": "2026-07-20",
+    "version": "2026.07.21",
+    "releasedOn": "2026-07-21",
     "asOf": "2026-07-20",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.json",
-        "bytes": 13947,
-        "sha256": "4d88e79c8cd94b277fbe5893c1573076e595ac3a4c42961c3c1427df743b6119",
+        "path": "/datasets/government-ai-readiness-comparison/2026.07.21/government-ai-readiness-comparison.json",
+        "bytes": 13948,
+        "sha256": "626abd9074f350e3f21854149f077ad9432a8c3291cc695600253d99040a8a7b",
         "records": 20
       },
       {
         "format": "csv",
-        "path": "/datasets/government-ai-readiness-comparison/2026.07.20/government-ai-readiness-comparison.csv",
-        "bytes": 3344,
-        "sha256": "946608c0416fb9cf694694d8c8867848b95a4e3a8e3c4e02d4ddd48831b3d76d",
+        "path": "/datasets/government-ai-readiness-comparison/2026.07.21/government-ai-readiness-comparison.csv",
+        "bytes": 3345,
+        "sha256": "8aac715ee0b6a3762255189858f2142bb33d5eee0402f0f83fa77e35d7de686d",
         "records": 20
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.21",
+      "releasedOn": "2026-07-21",
+      "asOf": "2026-07-20",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/government-ai-readiness-comparison/2026.07.21/government-ai-readiness-comparison.json",
+          "bytes": 13948,
+          "sha256": "626abd9074f350e3f21854149f077ad9432a8c3291cc695600253d99040a8a7b",
+          "records": 20
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/government-ai-readiness-comparison/2026.07.21/government-ai-readiness-comparison.csv",
+          "bytes": 3345,
+          "sha256": "8aac715ee0b6a3762255189858f2142bb33d5eee0402f0f83fa77e35d7de686d",
+          "records": 20
+        }
+      ]
+    },
     {
       "version": "2026.07.20",
       "releasedOn": "2026-07-20",

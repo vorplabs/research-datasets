@@ -4,13 +4,13 @@
   "canonicalCatalog": "https://vorplabs.com/research",
   "repository": "https://github.com/vorplabs/research-datasets",
   "license": "CC BY 4.0",
-  "latestReleasedOn": "2026-07-20",
-  "datasetCount": 14,
+  "latestReleasedOn": "2026-07-21",
+  "datasetCount": 16,
   "files": [
     {
       "path": "CITATION.cff",
       "bytes": 495,
-      "sha256": "394fc30e8a019595e1ec88f908502ee4cf36a50e9563ebb6802c789428741d28"
+      "sha256": "514594146483d026ab27ce42beb771d69d036ebc10d800c5dd586bcbd9a2815f"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -21,6 +21,21 @@
       "path": "CORRECTIONS.md",
       "bytes": 552,
       "sha256": "5f7a4ddc4d1bb8066c5b43855c6f9fdfbc56f02bceda4295be7d3ebf8c8a2af7"
+    },
+    {
+      "path": "datasets/ai-agent-liability/2026.07.21/ai-agent-liability.csv",
+      "bytes": 19769,
+      "sha256": "b9fca0ce37f58d6cff02308bd7b57927fda45d5c693e43a04c94241b813f77b5"
+    },
+    {
+      "path": "datasets/ai-agent-liability/2026.07.21/ai-agent-liability.json",
+      "bytes": 35001,
+      "sha256": "5f8aca0d63bf951f24f1f7f7a9b89ebffa58868f2ce10f5cb2d8380b17f0c386"
+    },
+    {
+      "path": "datasets/ai-agent-liability/manifest.json",
+      "bytes": 1786,
+      "sha256": "fae640b431361670073ee2f6c40697180cb53d311d25a50faf19fcf40d165366"
     },
     {
       "path": "datasets/ai-hallucination-sanctions/2026.07.19/ai-hallucination-sanctions.csv",
@@ -228,9 +243,19 @@
       "sha256": "4d88e79c8cd94b277fbe5893c1573076e595ac3a4c42961c3c1427df743b6119"
     },
     {
+      "path": "datasets/government-ai-readiness-comparison/2026.07.21/government-ai-readiness-comparison.csv",
+      "bytes": 3345,
+      "sha256": "8aac715ee0b6a3762255189858f2142bb33d5eee0402f0f83fa77e35d7de686d"
+    },
+    {
+      "path": "datasets/government-ai-readiness-comparison/2026.07.21/government-ai-readiness-comparison.json",
+      "bytes": 13948,
+      "sha256": "626abd9074f350e3f21854149f077ad9432a8c3291cc695600253d99040a8a7b"
+    },
+    {
       "path": "datasets/government-ai-readiness-comparison/manifest.json",
-      "bytes": 1950,
-      "sha256": "0c190d0fcac6e916522a3a296adaef10996199f671a3b55bc1c1a9433b6c3db9"
+      "bytes": 2711,
+      "sha256": "d50b7227c1b063ae1bbf5672407c48d1d48068675a1ee7531a751df94a5a3102"
     },
     {
       "path": "datasets/government-ai-readiness/2026.07.20/government-ai-readiness.csv",
@@ -243,14 +268,24 @@
       "sha256": "38b3b71768f27ce99f3ede4aa1933967852c9773a8ee3a8cf39b3e0c5e9d9c57"
     },
     {
+      "path": "datasets/government-ai-readiness/2026.07.21/government-ai-readiness.csv",
+      "bytes": 2309,
+      "sha256": "21ca0d681afa85fb54a277c9d663bac4d86f70c52e29d04c599f4c8a452e8dc4"
+    },
+    {
+      "path": "datasets/government-ai-readiness/2026.07.21/government-ai-readiness.json",
+      "bytes": 68370,
+      "sha256": "bbc512e782c03a2b4c4fbe73865533f3323a1ad5804220afc45a135bcaa06dad"
+    },
+    {
       "path": "datasets/government-ai-readiness/manifest.json",
-      "bytes": 1780,
-      "sha256": "3b380b813587371feb0c2f0e8a06d585157f34a99ab3f598ee6d0692d50213c6"
+      "bytes": 2495,
+      "sha256": "c9564fbc887e86fea033c7d3c6690dd4781f58bfea8274ea1f1b48437f496720"
     },
     {
       "path": "datasets/index.json",
-      "bytes": 5391,
-      "sha256": "aa0cb7664400f4d1cf3c1af9d5ce2887d79c32b8207ccba81c9697ae56d48166"
+      "bytes": 6163,
+      "sha256": "fd2c4959d40d98b3c24b229bf466d7ae53b248ae562252a108b073d6e38d67bc"
     },
     {
       "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.csv",
@@ -418,14 +453,29 @@
       "sha256": "d1f60235f54d95bc7cea48f545779adc1d3c0f0223fc9141fc4cc9733c0aaa02"
     },
     {
+      "path": "datasets/us-ai-procurement/2026.07.21/us-ai-procurement.csv",
+      "bytes": 16348,
+      "sha256": "e991bb323a56a05d42d4166666071e49d6d690cbd49ed03a14d7c41361448b9f"
+    },
+    {
+      "path": "datasets/us-ai-procurement/2026.07.21/us-ai-procurement.json",
+      "bytes": 23034,
+      "sha256": "1daadcd1bd96fb20b49919020d466912f1d54901bdd981af8b1fd74bc1c4b918"
+    },
+    {
+      "path": "datasets/us-ai-procurement/manifest.json",
+      "bytes": 1829,
+      "sha256": "2d5762009710880b38d8b7067ab1e260a7906fcce40b52be7ae7285890505a1a"
+    },
+    {
       "path": "LICENSE.md",
       "bytes": 539,
       "sha256": "4d464cac88ea8f967d0db2b930d4bdcc28ddf9e3aca48e506d0fed36c3e9d36a"
     },
     {
       "path": "README.md",
-      "bytes": 3502,
-      "sha256": "8f7f938ee233abdbd9b8746ecda022c2ef09ec7aeaa619d1cfa2a2d97c6b09d9"
+      "bytes": 3828,
+      "sha256": "37b4ab123614f9a2d9890f15ad6eadef58430dcc44afeb32a7638782abc941ba"
     },
     {
       "path": "SECURITY.md",

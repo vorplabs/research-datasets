@@ -1,0 +1,16 @@
+# Government AI Readiness Tracker
+# Version: 2026.07.21
+# As of: 2026-07-20
+# License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+# Citation: Vorp Labs Research, "Government AI Readiness Tracker," vorplabs.com, 2026.
+# Source: https://vorplabs.com/ai-regulatory-updates/government-ai-readiness
+# Releases and checksums: https://vorplabs.com/datasets/government-ai-readiness/manifest.json
+as_of,id,official_name,entity_type,country,country_code,jurisdiction_level,editorial_path,verification_status,ai-strategy,dedicated-governance,staffing-budget,internal-inventory,public-register,register-completeness,transparency-labeling,independent-evaluation,public-facing-ai,employee-ai,open-source,adoption-metrics,ai-literacy,procurement-guidance,data-infrastructure,sandbox-participation,risk-classification,obligation-inventory,article-49-readiness,fria-dpia,human-oversight,monitoring-incidents,public-participation,freshness-discipline
+2026-07-20,amsterdam,Gemeente Amsterdam,municipality,Netherlands,NL,local,register-first,partially-verified,2,2,1,1,2,1,1,2,1,2,1,0,,2,,,1,1,0,2,1,0,1,2
+2026-07-20,helsinki,Helsingin kaupunki (City of Helsinki),municipality,Finland,FI,local,register-first,partially-verified,2,2,,1,2,0,1,1,2,1,1,0,1,,,,0,0,0,0,1,0,1,1
+2026-07-20,vienna,Stadt Wien (City of Vienna),municipality,Austria,AT,local,strategy-first,partially-verified,2,2,1,1,0,0,1,0,1,2,0,2,2,1,2,,2,1,0,1,1,0,1,1
+2026-07-20,netherlands,Algoritmeregister van de Nederlandse overheid,national,Netherlands,NL,national,aggregation-first,partially-verified,2,2,,0,2,0,0,2,,,2,0,,,2,,2,0,0,1,,0,1,2
+2026-07-20,estonia,Republic of Estonia national AI programme (Eesti.ai / Bürokratt / Aruait),national,Estonia,EE,national,service-orchestration-first,partially-verified,2,2,2,1,1,0,1,2,2,1,2,0,1,,2,,1,,,,1,0,,1
+2026-07-20,connecticut,State of Connecticut,state,United States,US,state,governance-and-inventory-first,partially-verified,2,2,1,2,2,1,2,0,2,2,1,1,2,2,2,2,2,2,,2,1,2,1,2
+2026-07-20,maryland,State of Maryland,state,United States,US,state,governance-and-enablement-first,partially-verified,2,2,1,2,1,1,2,0,2,2,1,1,2,2,2,2,2,2,,1,1,2,1,2
+2026-07-20,california,State of California,state,United States,US,state,policy-and-platform-first,partially-verified,2,2,1,2,0,0,1,0,1,2,1,1,,2,2,2,2,2,,1,1,,0,2

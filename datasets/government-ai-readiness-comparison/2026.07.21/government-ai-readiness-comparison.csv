@@ -1,0 +1,28 @@
+# US state and European government AI readiness comparison
+# Version: 2026.07.21
+# As of: 2026-07-20
+# License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+# Citation: Vorp Labs Research, "US State and European Government AI Readiness Comparison," vorplabs.com, 2026.
+# Source: https://vorplabs.com/ai-regulatory-updates/government-ai-readiness/us-eu-comparison
+# Releases and checksums: https://vorplabs.com/datasets/government-ai-readiness-comparison/manifest.json
+as_of,dimension_key,dimension_label,dimension_group,us_cohort_size,us_scored_count,us_missing_count,us_score_sum,us_deployed_count,us_evidenced_count,us_mean_of_scored,us_deployed_share_of_scored,us_evidenced_share_of_scored,europe_cohort_size,europe_scored_count,europe_missing_count,europe_score_sum,europe_deployed_count,europe_evidenced_count,europe_mean_of_scored,europe_deployed_share_of_scored,europe_evidenced_share_of_scored
+2026-07-20,ai-strategy,AI/digital strategy,strategy-governance,3,3,0,6,3,3,2,1,1,5,5,0,10,5,5,2,1,1
+2026-07-20,dedicated-governance,Dedicated AI governance,strategy-governance,3,3,0,6,3,3,2,1,1,5,5,0,10,5,5,2,1,1
+2026-07-20,staffing-budget,Staffing and budget,strategy-governance,3,3,0,3,0,3,1,0,1,5,3,2,4,1,3,1.3333,0.3333,1
+2026-07-20,internal-inventory,Internal AI/system inventory,strategy-governance,3,3,0,6,3,3,2,1,1,5,5,0,4,0,4,0.8,0,0.8
+2026-07-20,public-register,Public algorithm/AI register,transparency-accountability,3,3,0,3,1,2,1,0.3333,0.6667,5,5,0,7,3,4,1.4,0.6,0.8
+2026-07-20,register-completeness,Register completeness,transparency-accountability,3,3,0,2,0,2,0.6667,0,0.6667,5,5,0,1,0,1,0.2,0,0.2
+2026-07-20,transparency-labeling,Transparency and labeling,transparency-accountability,3,3,0,5,2,3,1.6667,0.6667,1,5,5,0,4,0,4,0.8,0,0.8
+2026-07-20,independent-evaluation,Independent evaluation/audit,transparency-accountability,3,3,0,0,0,0,0,0,0,5,5,0,7,3,4,1.4,0.6,0.8
+2026-07-20,public-facing-ai,Public-facing AI deployed,operational-deployment,3,3,0,5,2,3,1.6667,0.6667,1,5,4,1,6,2,4,1.5,0.5,1
+2026-07-20,employee-ai,Employee/internal AI deployed,operational-deployment,3,3,0,6,3,3,2,1,1,5,4,1,6,2,4,1.5,0.5,1
+2026-07-20,open-source,Open source/interoperability,operational-deployment,3,3,0,3,0,3,1,0,1,5,5,0,6,2,4,1.2,0.4,0.8
+2026-07-20,adoption-metrics,Adoption and outcome metrics,operational-deployment,3,3,0,3,0,3,1,0,1,5,5,0,2,1,1,0.4,0.2,0.2
+2026-07-20,ai-literacy,AI literacy and training,workforce-infrastructure,3,2,1,4,2,2,2,1,1,5,3,2,4,1,3,1.3333,0.3333,1
+2026-07-20,procurement-guidance,Procurement guidance,workforce-infrastructure,3,3,0,6,3,3,2,1,1,5,2,3,3,1,2,1.5,0.5,1
+2026-07-20,data-infrastructure,Data and technical infrastructure,workforce-infrastructure,3,3,0,6,3,3,2,1,1,5,3,2,6,3,3,2,1,1
+2026-07-20,sandbox-participation,Sandbox/pilot participation,workforce-infrastructure,3,3,0,6,3,3,2,1,1,5,0,5,0,0,0,,,
+2026-07-20,human-oversight,Human oversight and appeal,monitoring-participation,3,3,0,3,0,3,1,0,1,5,4,1,4,0,4,1,0,1
+2026-07-20,monitoring-incidents,Monitoring and incident management,monitoring-participation,3,2,1,4,2,2,2,1,1,5,5,0,0,0,0,0,0,0
+2026-07-20,public-participation,Public participation,monitoring-participation,3,3,0,2,0,2,0.6667,0,0.6667,5,4,1,4,0,4,1,0,1
+2026-07-20,freshness-discipline,Freshness discipline,monitoring-participation,3,3,0,6,3,3,2,1,1,5,5,0,7,2,5,1.4,0.4,1

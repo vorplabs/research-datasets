@@ -6,28 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs Research, \"Government AI Readiness Tracker,\" vorplabs.com, 2026.",
   "latest": {
-    "version": "2026.07.20",
-    "releasedOn": "2026-07-20",
+    "version": "2026.07.21",
+    "releasedOn": "2026-07-21",
     "asOf": "2026-07-20",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/government-ai-readiness/2026.07.20/government-ai-readiness.json",
-        "bytes": 59955,
-        "sha256": "38b3b71768f27ce99f3ede4aa1933967852c9773a8ee3a8cf39b3e0c5e9d9c57",
+        "path": "/datasets/government-ai-readiness/2026.07.21/government-ai-readiness.json",
+        "bytes": 68370,
+        "sha256": "bbc512e782c03a2b4c4fbe73865533f3323a1ad5804220afc45a135bcaa06dad",
         "records": 8
       },
       {
         "format": "csv",
-        "path": "/datasets/government-ai-readiness/2026.07.20/government-ai-readiness.csv",
-        "bytes": 2289,
-        "sha256": "65d942292cd08878ee31a39f04f3e3586a77d6689b53452d378bc5343e707d66",
+        "path": "/datasets/government-ai-readiness/2026.07.21/government-ai-readiness.csv",
+        "bytes": 2309,
+        "sha256": "21ca0d681afa85fb54a277c9d663bac4d86f70c52e29d04c599f4c8a452e8dc4",
         "records": 8
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.21",
+      "releasedOn": "2026-07-21",
+      "asOf": "2026-07-20",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/government-ai-readiness/2026.07.21/government-ai-readiness.json",
+          "bytes": 68370,
+          "sha256": "bbc512e782c03a2b4c4fbe73865533f3323a1ad5804220afc45a135bcaa06dad",
+          "records": 8
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/government-ai-readiness/2026.07.21/government-ai-readiness.csv",
+          "bytes": 2309,
+          "sha256": "21ca0d681afa85fb54a277c9d663bac4d86f70c52e29d04c599f4c8a452e8dc4",
+          "records": 8
+        }
+      ]
+    },
     {
       "version": "2026.07.20",
       "releasedOn": "2026-07-20",
