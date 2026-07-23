@@ -145,10 +145,10 @@
       "title": "US Public-Sector AI Procurement Clause and Policy Inventory",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/us-ai-procurement",
       "manifest": "/datasets/us-ai-procurement/manifest.json",
-      "latestVersion": "2026.07.21",
-      "releasedOn": "2026-07-21",
-      "asOf": "2026-07-21",
-      "records": 20
+      "latestVersion": "2026.07.23",
+      "releasedOn": "2026-07-23",
+      "asOf": "2026-07-23",
+      "records": 23
     },
     {
       "dataset": "ai-agent-liability",

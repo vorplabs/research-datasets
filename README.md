@@ -22,7 +22,7 @@ Every immutable release includes JSON and CSV files. Its manifest records the ve
 | Frontier AI Safety Framework Comparison Dataset | 2026.07.17 | 2026-07-12 | 12 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/frontier-ai-framework-comparison) |
 | US AI Law Change Dataset | 2026.07.18 | 2026-07-17 | 12 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/us-ai-law-change-dataset) |
 | AI Media Rights, Consent & Provenance Registry | 2026.07.17 | 2026-07-15 | 15 | [Canonical page](https://vorplabs.com/models/media-rights) |
-| US Public-Sector AI Procurement Clause and Policy Inventory | 2026.07.21 | 2026-07-21 | 20 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/us-ai-procurement) |
+| US Public-Sector AI Procurement Clause and Policy Inventory | 2026.07.23 | 2026-07-23 | 23 | [Canonical page](https://vorplabs.com/ai-regulatory-updates/us-ai-procurement) |
 | AI Agent Liability, Insurance, and Attestation Tracker | 2026.07.21 | 2026-07-21 | 28 | [Canonical page](https://vorplabs.com/ai-agent-liability) |
 | AI Insurance Exclusions Evidence Ledger | 2026.07.22 | 2026-07-22 | 12 | [Canonical page](https://vorplabs.com/ai-insurance-exclusions) |
 

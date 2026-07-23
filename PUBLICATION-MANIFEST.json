@@ -320,7 +320,7 @@
     {
       "path": "datasets/index.json",
       "bytes": 6537,
-      "sha256": "2cf8e4c23a1b990f86a71486de21d712ee1d61e243022cbe93cc9bccb456f23b"
+      "sha256": "b930bfc477893680edcfac931c00749306fce31737713f4a3cfe792b33ef7dea"
     },
     {
       "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.csv",
@@ -498,9 +498,19 @@
       "sha256": "1daadcd1bd96fb20b49919020d466912f1d54901bdd981af8b1fd74bc1c4b918"
     },
     {
+      "path": "datasets/us-ai-procurement/2026.07.23/us-ai-procurement.csv",
+      "bytes": 20794,
+      "sha256": "7a43fd43ccbcdf3d50c3530ef5b601216513732112b360dcdb8f469c9613f2cd"
+    },
+    {
+      "path": "datasets/us-ai-procurement/2026.07.23/us-ai-procurement.json",
+      "bytes": 28422,
+      "sha256": "ae2ea9bd5bb7e5381864544a6208014b0a24c40e236593d0a0dc8757745f9da1"
+    },
+    {
       "path": "datasets/us-ai-procurement/manifest.json",
-      "bytes": 1829,
-      "sha256": "2d5762009710880b38d8b7067ab1e260a7906fcce40b52be7ae7285890505a1a"
+      "bytes": 2523,
+      "sha256": "b312806f89a21c06a8a8435fd8469a9edbcf885c372d610fb912b6039cef83ba"
     },
     {
       "path": "LICENSE.md",
@@ -510,7 +520,7 @@
     {
       "path": "README.md",
       "bytes": 3968,
-      "sha256": "f999eb737d6ef5a54a31677b91ae588908df69b73dca7f5e8669e69ce707faa5"
+      "sha256": "01fd315f562600033d19e33b7c5624b9cf4efa1102c29b89cb71c677896cf058"
     },
     {
       "path": "SECURITY.md",
