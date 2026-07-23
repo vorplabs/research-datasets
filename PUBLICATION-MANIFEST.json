@@ -4,13 +4,13 @@
   "canonicalCatalog": "https://vorplabs.com/research",
   "repository": "https://github.com/vorplabs/research-datasets",
   "license": "CC BY 4.0",
-  "latestReleasedOn": "2026-07-21",
-  "datasetCount": 16,
+  "latestReleasedOn": "2026-07-22",
+  "datasetCount": 17,
   "files": [
     {
       "path": "CITATION.cff",
       "bytes": 495,
-      "sha256": "514594146483d026ab27ce42beb771d69d036ebc10d800c5dd586bcbd9a2815f"
+      "sha256": "5d0384afeea47ad5ba09cad049164b2ced0f0a5297fc09b9865238fec1325cca"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -61,6 +61,21 @@
       "path": "datasets/ai-hallucination-sanctions/manifest.json",
       "bytes": 2617,
       "sha256": "778f635e50e5e58e5ae2c0214d3831a2b015d9afdd04898e8b1b5144e154d66d"
+    },
+    {
+      "path": "datasets/ai-insurance-exclusions/2026.07.22/ai-insurance-exclusions.csv",
+      "bytes": 10852,
+      "sha256": "091dd8253a595f9d4d0d52af40e63f5e4872c6a61a9ebe919374d0b32fa44224"
+    },
+    {
+      "path": "datasets/ai-insurance-exclusions/2026.07.22/ai-insurance-exclusions.json",
+      "bytes": 14457,
+      "sha256": "0f8b79815006819462ea12818c3b477a009a98e6bb9ade9adf2696b2991fa3b2"
+    },
+    {
+      "path": "datasets/ai-insurance-exclusions/manifest.json",
+      "bytes": 1811,
+      "sha256": "2fd3888443b5940d3786efb8bbf05e53b8c3664ed8a4b583b6f32ecd02288838"
     },
     {
       "path": "datasets/ai-security-incidents/2026.07.10/ai-security-incidents.csv",
@@ -133,9 +148,19 @@
       "sha256": "e7f77ec6c52b2a154af319f962dc1d007a1268458cac6628452fe4da61feafe6"
     },
     {
+      "path": "datasets/deepfake-laws/2026.07.22/deepfake-laws.csv",
+      "bytes": 33666,
+      "sha256": "ada0b888995e7e29e9a0d63a5f9d717b7fc73331b20f195e998c4cb1c3a329da"
+    },
+    {
+      "path": "datasets/deepfake-laws/2026.07.22/deepfake-laws.json",
+      "bytes": 68482,
+      "sha256": "3d9c8ddfa0156ccf049e17351ada2d0949dc15d938a4cd131a425b322caf44ee"
+    },
+    {
       "path": "datasets/deepfake-laws/manifest.json",
-      "bytes": 2423,
-      "sha256": "9dea35719ce6a88399031cdd0d816d2588aa786d3e960fa69d6ff9466481af32"
+      "bytes": 3101,
+      "sha256": "7c417937a8987d2b48a58ea2e15b64ea01c7d696153484f486b26c628f766b7d"
     },
     {
       "path": "datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.csv",
@@ -284,8 +309,8 @@
     },
     {
       "path": "datasets/index.json",
-      "bytes": 6163,
-      "sha256": "fd2c4959d40d98b3c24b229bf466d7ae53b248ae562252a108b073d6e38d67bc"
+      "bytes": 6537,
+      "sha256": "6637ba7772fd486d6355bb02075ff7b09d8fc1ee1c494f7dbffbc0e159e679ea"
     },
     {
       "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.csv",
@@ -474,8 +499,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3828,
-      "sha256": "37b4ab123614f9a2d9890f15ad6eadef58430dcc44afeb32a7638782abc941ba"
+      "bytes": 3968,
+      "sha256": "136ead1d1b67387c0f7cfb902aa30d79f07e315cdb3d1e2033b50065bd16cd01"
     },
     {
       "path": "SECURITY.md",

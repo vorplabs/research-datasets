@@ -4,8 +4,8 @@ title: "Vorp Labs Research Datasets"
 type: dataset
 authors:
   - name: "Vorp Labs Research"
-version: "2026.07.21"
-date-released: 2026-07-21
+version: "2026.07.22"
+date-released: 2026-07-22
 url: "https://vorplabs.com/research"
 repository-code: "https://github.com/vorplabs/research-datasets"
 license: CC-BY-4.0

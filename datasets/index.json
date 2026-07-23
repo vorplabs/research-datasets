@@ -95,10 +95,10 @@
       "title": "Deepfake & AI Impersonation Law Tracker",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/deepfake-laws",
       "manifest": "/datasets/deepfake-laws/manifest.json",
-      "latestVersion": "2026.07.17",
-      "releasedOn": "2026-07-17",
-      "asOf": "2026-07-10",
-      "records": 46
+      "latestVersion": "2026.07.22",
+      "releasedOn": "2026-07-22",
+      "asOf": "2026-07-22",
+      "records": 45
     },
     {
       "dataset": "model-deprecations",
@@ -159,6 +159,16 @@
       "releasedOn": "2026-07-21",
       "asOf": "2026-07-21",
       "records": 28
+    },
+    {
+      "dataset": "ai-insurance-exclusions",
+      "title": "AI Insurance Exclusions Evidence Ledger",
+      "canonicalPage": "https://vorplabs.com/ai-insurance-exclusions",
+      "manifest": "/datasets/ai-insurance-exclusions/manifest.json",
+      "latestVersion": "2026.07.22",
+      "releasedOn": "2026-07-22",
+      "asOf": "2026-07-22",
+      "records": 12
     }
   ]
 }

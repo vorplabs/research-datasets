@@ -1,0 +1,54 @@
+{
+  "dataset": "ai-insurance-exclusions",
+  "title": "AI Insurance Exclusions Evidence Ledger",
+  "canonicalPage": "https://vorplabs.com/ai-insurance-exclusions",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseLabel": "CC BY 4.0",
+  "citation": "Vorp Labs, AI Insurance Exclusions Evidence Ledger (as of 2026-07-22), https://vorplabs.com/ai-insurance-exclusions",
+  "latest": {
+    "version": "2026.07.22",
+    "releasedOn": "2026-07-22",
+    "asOf": "2026-07-22",
+    "schemaVersion": 1,
+    "files": [
+      {
+        "format": "json",
+        "path": "/datasets/ai-insurance-exclusions/2026.07.22/ai-insurance-exclusions.json",
+        "bytes": 14457,
+        "sha256": "0f8b79815006819462ea12818c3b477a009a98e6bb9ade9adf2696b2991fa3b2",
+        "records": 12
+      },
+      {
+        "format": "csv",
+        "path": "/datasets/ai-insurance-exclusions/2026.07.22/ai-insurance-exclusions.csv",
+        "bytes": 10852,
+        "sha256": "091dd8253a595f9d4d0d52af40e63f5e4872c6a61a9ebe919374d0b32fa44224",
+        "records": 12
+      }
+    ]
+  },
+  "releases": [
+    {
+      "version": "2026.07.22",
+      "releasedOn": "2026-07-22",
+      "asOf": "2026-07-22",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/ai-insurance-exclusions/2026.07.22/ai-insurance-exclusions.json",
+          "bytes": 14457,
+          "sha256": "0f8b79815006819462ea12818c3b477a009a98e6bb9ade9adf2696b2991fa3b2",
+          "records": 12
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/ai-insurance-exclusions/2026.07.22/ai-insurance-exclusions.csv",
+          "bytes": 10852,
+          "sha256": "091dd8253a595f9d4d0d52af40e63f5e4872c6a61a9ebe919374d0b32fa44224",
+          "records": 12
+        }
+      ]
+    }
+  ]
+}
