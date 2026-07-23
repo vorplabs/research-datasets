@@ -6,28 +6,50 @@
   "licenseLabel": "CC BY 4.0",
   "citation": "Vorp Labs, Deepfake & AI Impersonation Law Tracker (as of 2026-07-22), https://vorplabs.com/ai-regulatory-updates/deepfake-laws",
   "latest": {
-    "version": "2026.07.22",
-    "releasedOn": "2026-07-22",
+    "version": "2026.07.23",
+    "releasedOn": "2026-07-23",
     "asOf": "2026-07-22",
     "schemaVersion": 1,
     "files": [
       {
         "format": "json",
-        "path": "/datasets/deepfake-laws/2026.07.22/deepfake-laws.json",
-        "bytes": 68482,
-        "sha256": "3d9c8ddfa0156ccf049e17351ada2d0949dc15d938a4cd131a425b322caf44ee",
-        "records": 45
+        "path": "/datasets/deepfake-laws/2026.07.23/deepfake-laws.json",
+        "bytes": 74089,
+        "sha256": "8c980c8cb8f9a8c12bd6dcd86cc4c077e52ab726150e6c4427e7b13aa157a74b",
+        "records": 44
       },
       {
         "format": "csv",
-        "path": "/datasets/deepfake-laws/2026.07.22/deepfake-laws.csv",
-        "bytes": 33666,
-        "sha256": "ada0b888995e7e29e9a0d63a5f9d717b7fc73331b20f195e998c4cb1c3a329da",
-        "records": 45
+        "path": "/datasets/deepfake-laws/2026.07.23/deepfake-laws.csv",
+        "bytes": 37106,
+        "sha256": "f7e7c22bc1ed9dc3b332cfae95e74d15d4d8cab12b4b8eb7b647f129f8c5ced5",
+        "records": 44
       }
     ]
   },
   "releases": [
+    {
+      "version": "2026.07.23",
+      "releasedOn": "2026-07-23",
+      "asOf": "2026-07-22",
+      "schemaVersion": 1,
+      "files": [
+        {
+          "format": "json",
+          "path": "/datasets/deepfake-laws/2026.07.23/deepfake-laws.json",
+          "bytes": 74089,
+          "sha256": "8c980c8cb8f9a8c12bd6dcd86cc4c077e52ab726150e6c4427e7b13aa157a74b",
+          "records": 44
+        },
+        {
+          "format": "csv",
+          "path": "/datasets/deepfake-laws/2026.07.23/deepfake-laws.csv",
+          "bytes": 37106,
+          "sha256": "f7e7c22bc1ed9dc3b332cfae95e74d15d4d8cab12b4b8eb7b647f129f8c5ced5",
+          "records": 44
+        }
+      ]
+    },
     {
       "version": "2026.07.22",
       "releasedOn": "2026-07-22",

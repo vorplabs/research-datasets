@@ -95,10 +95,10 @@
       "title": "Deepfake & AI Impersonation Law Tracker",
       "canonicalPage": "https://vorplabs.com/ai-regulatory-updates/deepfake-laws",
       "manifest": "/datasets/deepfake-laws/manifest.json",
-      "latestVersion": "2026.07.22",
-      "releasedOn": "2026-07-22",
+      "latestVersion": "2026.07.23",
+      "releasedOn": "2026-07-23",
       "asOf": "2026-07-22",
-      "records": 45
+      "records": 44
     },
     {
       "dataset": "model-deprecations",

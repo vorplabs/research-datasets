@@ -4,13 +4,13 @@
   "canonicalCatalog": "https://vorplabs.com/research",
   "repository": "https://github.com/vorplabs/research-datasets",
   "license": "CC BY 4.0",
-  "latestReleasedOn": "2026-07-22",
+  "latestReleasedOn": "2026-07-23",
   "datasetCount": 17,
   "files": [
     {
       "path": "CITATION.cff",
       "bytes": 495,
-      "sha256": "5d0384afeea47ad5ba09cad049164b2ced0f0a5297fc09b9865238fec1325cca"
+      "sha256": "cfe14d22be30dd247d04103ce1c7521e534f46b9b4a41f70ac59d5b27a168e59"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -158,9 +158,19 @@
       "sha256": "3d9c8ddfa0156ccf049e17351ada2d0949dc15d938a4cd131a425b322caf44ee"
     },
     {
+      "path": "datasets/deepfake-laws/2026.07.23/deepfake-laws.csv",
+      "bytes": 37106,
+      "sha256": "f7e7c22bc1ed9dc3b332cfae95e74d15d4d8cab12b4b8eb7b647f129f8c5ced5"
+    },
+    {
+      "path": "datasets/deepfake-laws/2026.07.23/deepfake-laws.json",
+      "bytes": 74089,
+      "sha256": "8c980c8cb8f9a8c12bd6dcd86cc4c077e52ab726150e6c4427e7b13aa157a74b"
+    },
+    {
       "path": "datasets/deepfake-laws/manifest.json",
-      "bytes": 3101,
-      "sha256": "7c417937a8987d2b48a58ea2e15b64ea01c7d696153484f486b26c628f766b7d"
+      "bytes": 3779,
+      "sha256": "0345aa3f6c30aabc5098e319c0c67dd61594ee8d15467bb2218da01c2689ef30"
     },
     {
       "path": "datasets/einvoicing-mandates/2026.07.15/einvoicing-mandates.csv",
@@ -310,7 +320,7 @@
     {
       "path": "datasets/index.json",
       "bytes": 6537,
-      "sha256": "6637ba7772fd486d6355bb02075ff7b09d8fc1ee1c494f7dbffbc0e159e679ea"
+      "sha256": "2cf8e4c23a1b990f86a71486de21d712ee1d61e243022cbe93cc9bccb456f23b"
     },
     {
       "path": "datasets/media-rights-provenance/2026.07.14/media-rights-provenance.csv",
@@ -500,7 +510,7 @@
     {
       "path": "README.md",
       "bytes": 3968,
-      "sha256": "136ead1d1b67387c0f7cfb902aa30d79f07e315cdb3d1e2033b50065bd16cd01"
+      "sha256": "f999eb737d6ef5a54a31677b91ae588908df69b73dca7f5e8669e69ce707faa5"
     },
     {
       "path": "SECURITY.md",
